@@ -1,0 +1,1195 @@
+Order ID,Amount,Profit,Quantity,Product_Name,PaymentMode,Order Date,State,City,Year-Month
+B-26776,9726,1275,5,Electronic Games,UPI,6/27/2023,Florida,Miami,2023-06
+B-26776,9726,1275,5,Electronic Games,UPI,12/27/2024,Illinois,Chicago,2024-12
+B-26776,9726,1275,5,Electronic Games,UPI,7/25/2021,New York,Buffalo,2021-07
+B-26776,4975,1330,14,Printers,UPI,6/27/2023,Florida,Miami,2023-06
+B-26776,4975,1330,14,Printers,UPI,12/27/2024,Illinois,Chicago,2024-12
+B-26776,4975,1330,14,Printers,UPI,7/25/2021,New York,Buffalo,2021-07
+B-26942,1525,185,12,Pens,Debit Card,5/11/2024,Florida,Orlando,2024-05
+B-26942,1525,185,12,Pens,Debit Card,10/9/2021,Florida,Miami,2021-10
+B-26640,883,117,10,Laptops,EMI,11/18/2022,California,Los Angeles,2022-11
+B-26640,8127,3551,16,Tables,Credit Card,11/18/2022,California,Los Angeles,2022-11
+B-25890,2516,734,19,Chairs,UPI,11/12/2023,New York,New York City,2023-11
+B-25102,2975,462,14,Pens,Credit Card,3/23/2020,New York,New York City,2020-03
+B-25426,6851,2812,1,Markers,Debit Card,5/4/2020,Florida,Orlando,2020-05
+B-25426,7626,1046,15,Sofas,Credit Card,5/4/2020,Florida,Orlando,2020-05
+B-25426,1023,78,9,Tables,UPI,5/4/2020,Florida,Orlando,2020-05
+B-25238,7600,1098,10,Pens,UPI,11/9/2023,Illinois,Springfield,2023-11
+B-25238,7501,262,18,Paper,COD,11/9/2023,Illinois,Springfield,2023-11
+B-25051,725,133,6,Paper,Credit Card,12/30/2024,New York,Rochester,2024-12
+B-25051,7201,2685,2,Tables,Credit Card,12/30/2024,New York,Rochester,2024-12
+B-26510,1629,265,1,Paper,UPI,2/11/2025,Texas,Dallas,2025-02
+B-26510,1629,265,1,Paper,UPI,1/23/2024,California,San Diego,2024-01
+B-25104,8971,2971,19,Binders,Debit Card,11/28/2020,California,San Diego,2020-11
+B-25104,2939,894,20,Binders,COD,11/28/2020,California,San Diego,2020-11
+B-25553,9380,414,11,Phones,UPI,5/30/2024,New York,Rochester,2024-05
+B-25553,8558,1644,18,Binders,Credit Card,5/30/2024,New York,Rochester,2024-05
+B-25553,4080,72,17,Paper,COD,5/30/2024,New York,Rochester,2024-05
+B-26703,4206,1821,17,Electronic Games,EMI,1/23/2022,Texas,Austin,2022-01
+B-26232,5219,1180,20,Binders,COD,12/17/2021,New York,New York City,2021-12
+B-26232,5219,1180,20,Binders,COD,2/3/2023,California,San Francisco,2023-02
+B-25394,3686,760,20,Pens,Debit Card,10/30/2022,California,San Francisco,2022-10
+B-25394,3686,760,20,Pens,Debit Card,1/15/2022,Ohio,Columbus,2022-01
+B-26157,6045,1606,4,Paper,COD,12/14/2023,Florida,Orlando,2023-12
+B-26157,9337,554,11,Pens,COD,12/14/2023,Florida,Orlando,2023-12
+B-25555,4051,1848,12,Phones,Credit Card,7/3/2023,California,San Diego,2023-07
+B-25555,4051,1848,12,Phones,Credit Card,5/8/2021,Ohio,Cincinnati,2021-05
+B-25555,5011,866,11,Bookcases,Credit Card,7/3/2023,California,San Diego,2023-07
+B-25555,5011,866,11,Bookcases,Credit Card,5/8/2021,Ohio,Cincinnati,2021-05
+B-26139,3958,630,15,Sofas,EMI,10/7/2022,Florida,Orlando,2022-10
+B-26139,3132,963,1,Tables,Debit Card,10/7/2022,Florida,Orlando,2022-10
+B-25032,7784,2937,12,Markers,UPI,8/6/2024,California,San Francisco,2024-08
+B-25032,5591,1696,3,Pens,COD,8/6/2024,California,San Francisco,2024-08
+B-25032,5122,2413,12,Electronic Games,COD,8/6/2024,California,San Francisco,2024-08
+B-25730,8293,2632,8,Binders,COD,1/5/2022,Ohio,Cleveland,2022-01
+B-25730,8293,2632,8,Binders,COD,10/17/2020,New York,Rochester,2020-10
+B-25730,8293,2632,8,Binders,COD,8/21/2023,California,Los Angeles,2023-08
+B-25730,2863,205,17,Phones,UPI,1/5/2022,Ohio,Cleveland,2022-01
+B-25730,2863,205,17,Phones,UPI,10/17/2020,New York,Rochester,2020-10
+B-25730,2863,205,17,Phones,UPI,8/21/2023,California,Los Angeles,2023-08
+B-26470,3090,573,6,Tables,EMI,12/27/2024,California,San Diego,2024-12
+B-26470,3090,573,6,Tables,EMI,6/18/2021,Ohio,Cincinnati,2021-06
+B-26470,3090,573,6,Tables,EMI,5/27/2023,Texas,Austin,2023-05
+B-26470,3090,573,6,Tables,EMI,10/12/2021,Texas,Dallas,2021-10
+B-26470,9683,1014,5,Printers,UPI,12/27/2024,California,San Diego,2024-12
+B-26470,9683,1014,5,Printers,UPI,6/18/2021,Ohio,Cincinnati,2021-06
+B-26470,9683,1014,5,Printers,UPI,5/27/2023,Texas,Austin,2023-05
+B-26470,9683,1014,5,Printers,UPI,10/12/2021,Texas,Dallas,2021-10
+B-25988,2463,648,18,Tables,EMI,9/19/2022,Ohio,Cincinnati,2022-09
+B-25568,7811,1538,12,Sofas,COD,3/25/2022,Florida,Miami,2022-03
+B-26730,6139,451,10,Tables,Debit Card,2/26/2022,Florida,Orlando,2022-02
+B-26730,6139,451,10,Tables,Debit Card,4/5/2021,Texas,Houston,2021-04
+B-26730,8636,3192,3,Chairs,COD,2/26/2022,Florida,Orlando,2022-02
+B-26730,8636,3192,3,Chairs,COD,4/5/2021,Texas,Houston,2021-04
+B-26730,4439,1712,19,Sofas,Credit Card,2/26/2022,Florida,Orlando,2022-02
+B-26730,4439,1712,19,Sofas,Credit Card,4/5/2021,Texas,Houston,2021-04
+B-25372,1016,172,20,Tables,Debit Card,11/16/2020,New York,Buffalo,2020-11
+B-25372,5768,2059,14,Tables,UPI,11/16/2020,New York,Buffalo,2020-11
+B-25372,1217,151,3,Tables,Credit Card,11/16/2020,New York,Buffalo,2020-11
+B-26026,953,93,2,Paper,Debit Card,12/12/2024,Ohio,Cleveland,2024-12
+B-26026,953,93,2,Paper,Debit Card,4/6/2023,California,Los Angeles,2023-04
+B-26026,7355,1034,3,Sofas,COD,12/12/2024,Ohio,Cleveland,2024-12
+B-26026,7355,1034,3,Sofas,COD,4/6/2023,California,Los Angeles,2023-04
+B-26026,1843,248,3,Phones,Credit Card,12/12/2024,Ohio,Cleveland,2024-12
+B-26026,1843,248,3,Phones,Credit Card,4/6/2023,California,Los Angeles,2023-04
+B-26026,1603,361,10,Pens,Debit Card,12/12/2024,Ohio,Cleveland,2024-12
+B-26026,1603,361,10,Pens,Debit Card,4/6/2023,California,Los Angeles,2023-04
+B-25295,2025,528,1,Pens,Credit Card,1/28/2024,Florida,Miami,2024-01
+B-25295,6800,167,16,Binders,EMI,1/28/2024,Florida,Miami,2024-01
+B-26121,1126,55,1,Bookcases,UPI,1/16/2022,Florida,Tampa,2022-01
+B-26121,1126,55,1,Bookcases,UPI,12/16/2022,New York,Buffalo,2022-12
+B-25560,7533,3508,12,Tables,UPI,7/13/2023,California,San Diego,2023-07
+B-25560,4734,1178,16,Binders,Credit Card,7/13/2023,California,San Diego,2023-07
+B-25560,4074,1175,6,Electronic Games,Debit Card,7/13/2023,California,San Diego,2023-07
+B-25560,2334,484,3,Sofas,Credit Card,7/13/2023,California,San Diego,2023-07
+B-26076,2750,1239,11,Phones,Debit Card,3/10/2025,New York,Buffalo,2025-03
+B-26076,2750,1239,11,Phones,Debit Card,9/24/2024,Ohio,Cleveland,2024-09
+B-26076,8639,3104,19,Pens,EMI,3/10/2025,New York,Buffalo,2025-03
+B-26076,8639,3104,19,Pens,EMI,9/24/2024,Ohio,Cleveland,2024-09
+B-25872,3808,1192,4,Markers,UPI,4/13/2020,New York,New York City,2020-04
+B-25872,2588,705,16,Pens,Credit Card,4/13/2020,New York,New York City,2020-04
+B-26185,1591,727,5,Electronic Games,Credit Card,6/27/2022,Illinois,Springfield,2022-06
+B-26185,1591,727,5,Electronic Games,Credit Card,3/14/2021,Florida,Tampa,2021-03
+B-26185,1591,727,5,Electronic Games,Credit Card,2/23/2022,Ohio,Cincinnati,2022-02
+B-26259,1757,622,10,Chairs,UPI,3/29/2022,Ohio,Cleveland,2022-03
+B-26259,1757,622,10,Chairs,UPI,11/20/2022,Illinois,Peoria,2022-11
+B-25142,6940,253,15,Bookcases,Debit Card,11/12/2021,Florida,Orlando,2021-11
+B-25142,5105,465,5,Printers,UPI,11/12/2021,Florida,Orlando,2021-11
+B-25326,5578,277,16,Tables,COD,8/17/2021,Florida,Miami,2021-08
+B-25326,5578,277,16,Tables,COD,5/16/2022,Ohio,Columbus,2022-05
+B-26795,5224,1958,16,Chairs,Credit Card,7/16/2023,Texas,Houston,2023-07
+B-26795,5002,1801,11,Markers,Credit Card,7/16/2023,Texas,Houston,2023-07
+B-26795,7380,1673,18,Markers,COD,7/16/2023,Texas,Houston,2023-07
+B-25660,7595,2873,4,Chairs,Debit Card,8/18/2020,California,Los Angeles,2020-08
+B-25660,7595,2873,4,Chairs,Debit Card,4/19/2022,New York,Rochester,2022-04
+B-25410,1954,294,7,Sofas,Debit Card,12/23/2022,Texas,Austin,2022-12
+B-25690,523,95,20,Printers,EMI,12/7/2024,Texas,Dallas,2024-12
+B-26464,5704,714,13,Laptops,EMI,2/3/2022,Texas,Austin,2022-02
+B-26464,5704,714,13,Laptops,EMI,12/12/2021,California,San Diego,2021-12
+B-26464,8797,1010,8,Tables,UPI,2/3/2022,Texas,Austin,2022-02
+B-26464,8797,1010,8,Tables,UPI,12/12/2021,California,San Diego,2021-12
+B-26464,9236,2899,5,Laptops,Debit Card,2/3/2022,Texas,Austin,2022-02
+B-26464,9236,2899,5,Laptops,Debit Card,12/12/2021,California,San Diego,2021-12
+B-26454,9109,586,17,Sofas,EMI,5/17/2020,Florida,Miami,2020-05
+B-26742,4358,526,19,Phones,Credit Card,12/5/2022,Texas,Dallas,2022-12
+B-26742,4358,526,19,Phones,Credit Card,9/17/2024,California,San Francisco,2024-09
+B-26742,6459,825,8,Phones,Credit Card,12/5/2022,Texas,Dallas,2022-12
+B-26742,6459,825,8,Phones,Credit Card,9/17/2024,California,San Francisco,2024-09
+B-25510,2478,92,12,Bookcases,COD,5/8/2023,California,San Francisco,2023-05
+B-25510,2478,92,12,Bookcases,COD,3/3/2021,New York,New York City,2021-03
+B-25510,2478,92,12,Bookcases,COD,3/18/2021,California,San Francisco,2021-03
+B-25510,2478,92,12,Bookcases,COD,4/24/2023,Ohio,Cleveland,2023-04
+B-25936,9992,3696,20,Pens,Debit Card,10/9/2021,New York,Rochester,2021-10
+B-25936,9992,3696,20,Pens,Debit Card,4/15/2022,Texas,Austin,2022-04
+B-25936,9992,3696,20,Pens,Debit Card,8/29/2022,New York,Rochester,2022-08
+B-25936,9619,3420,7,Binders,UPI,10/9/2021,New York,Rochester,2021-10
+B-25936,9619,3420,7,Binders,UPI,4/15/2022,Texas,Austin,2022-04
+B-25936,9619,3420,7,Binders,UPI,8/29/2022,New York,Rochester,2022-08
+B-25884,9538,3158,20,Printers,Credit Card,9/4/2024,California,San Francisco,2024-09
+B-25884,9538,3158,20,Printers,Credit Card,5/18/2021,Ohio,Cleveland,2021-05
+B-25884,9035,1227,14,Chairs,EMI,9/4/2024,California,San Francisco,2024-09
+B-25884,9035,1227,14,Chairs,EMI,5/18/2021,Ohio,Cleveland,2021-05
+B-26287,2684,670,2,Paper,COD,7/2/2024,Florida,Tampa,2024-07
+B-26287,822,147,5,Sofas,Credit Card,7/2/2024,Florida,Tampa,2024-07
+B-26287,9730,2341,2,Chairs,EMI,7/2/2024,Florida,Tampa,2024-07
+B-26287,2483,236,2,Electronic Games,COD,7/2/2024,Florida,Tampa,2024-07
+B-26564,1297,600,7,Binders,Credit Card,2/16/2024,Florida,Orlando,2024-02
+B-26564,7909,1942,19,Phones,COD,2/16/2024,Florida,Orlando,2024-02
+B-26293,9768,4518,8,Tables,Credit Card,11/26/2021,Texas,Dallas,2021-11
+B-26293,4968,934,5,Sofas,Debit Card,11/26/2021,Texas,Dallas,2021-11
+B-26293,1731,149,4,Laptops,EMI,11/26/2021,Texas,Dallas,2021-11
+B-25915,3433,1169,10,Binders,COD,2/1/2024,California,San Francisco,2024-02
+B-25915,3433,1169,10,Binders,COD,9/9/2021,Illinois,Springfield,2021-09
+B-25915,3433,1169,10,Binders,COD,9/8/2021,California,San Diego,2021-09
+B-25915,3887,1490,1,Binders,Debit Card,2/1/2024,California,San Francisco,2024-02
+B-25915,3887,1490,1,Binders,Debit Card,9/9/2021,Illinois,Springfield,2021-09
+B-25915,3887,1490,1,Binders,Debit Card,9/8/2021,California,San Diego,2021-09
+B-26496,1801,641,20,Markers,Credit Card,7/9/2024,California,Los Angeles,2024-07
+B-26496,5301,817,10,Tables,Debit Card,7/9/2024,California,Los Angeles,2024-07
+B-26496,1166,520,12,Paper,Debit Card,7/9/2024,California,Los Angeles,2024-07
+B-26496,3196,1411,15,Paper,Debit Card,7/9/2024,California,Los Angeles,2024-07
+B-25856,3428,350,1,Chairs,Credit Card,2/28/2023,Illinois,Springfield,2023-02
+B-25856,7223,2433,12,Binders,Credit Card,2/28/2023,Illinois,Springfield,2023-02
+B-25856,3731,647,1,Pens,Credit Card,2/28/2023,Illinois,Springfield,2023-02
+B-26899,8903,4401,18,Pens,Credit Card,8/8/2022,Ohio,Columbus,2022-08
+B-25916,6009,2107,7,Phones,UPI,12/7/2022,Illinois,Chicago,2022-12
+B-25916,6009,2107,7,Phones,UPI,4/29/2024,Texas,Austin,2024-04
+B-25916,2858,230,3,Tables,Credit Card,12/7/2022,Illinois,Chicago,2022-12
+B-25916,2858,230,3,Tables,Credit Card,4/29/2024,Texas,Austin,2024-04
+B-25916,8175,525,7,Sofas,Credit Card,12/7/2022,Illinois,Chicago,2022-12
+B-25916,8175,525,7,Sofas,Credit Card,4/29/2024,Texas,Austin,2024-04
+B-25916,5846,586,18,Sofas,UPI,12/7/2022,Illinois,Chicago,2022-12
+B-25916,5846,586,18,Sofas,UPI,4/29/2024,Texas,Austin,2024-04
+B-26428,706,197,11,Laptops,Credit Card,1/2/2022,Texas,Austin,2022-01
+B-26332,9835,2571,16,Tables,COD,6/10/2022,Texas,Dallas,2022-06
+B-26332,9835,2571,16,Tables,COD,11/16/2021,Florida,Orlando,2021-11
+B-26332,9835,2571,16,Tables,COD,8/17/2022,California,Los Angeles,2022-08
+B-26332,9691,3056,13,Markers,Credit Card,6/10/2022,Texas,Dallas,2022-06
+B-26332,9691,3056,13,Markers,Credit Card,11/16/2021,Florida,Orlando,2021-11
+B-26332,9691,3056,13,Markers,Credit Card,8/17/2022,California,Los Angeles,2022-08
+B-26332,7826,1221,14,Bookcases,UPI,6/10/2022,Texas,Dallas,2022-06
+B-26332,7826,1221,14,Bookcases,UPI,11/16/2021,Florida,Orlando,2021-11
+B-26332,7826,1221,14,Bookcases,UPI,8/17/2022,California,Los Angeles,2022-08
+B-25303,770,241,11,Sofas,COD,11/23/2021,Texas,Austin,2021-11
+B-25303,770,241,11,Sofas,COD,3/4/2023,Ohio,Cincinnati,2023-03
+B-26507,9895,1598,20,Bookcases,COD,12/16/2023,New York,Rochester,2023-12
+B-25983,6517,1581,10,Paper,Debit Card,5/19/2024,Florida,Miami,2024-05
+B-25983,6517,1581,10,Paper,Debit Card,5/14/2020,Florida,Tampa,2020-05
+B-25983,1166,349,11,Tables,Credit Card,5/19/2024,Florida,Miami,2024-05
+B-25983,1166,349,11,Tables,Credit Card,5/14/2020,Florida,Tampa,2020-05
+B-25156,9820,793,16,Chairs,Credit Card,8/29/2021,New York,Buffalo,2021-08
+B-26759,8563,2624,8,Binders,COD,11/10/2024,Texas,Dallas,2024-11
+B-26759,4441,281,20,Printers,COD,11/10/2024,Texas,Dallas,2024-11
+B-26244,7340,2271,8,Paper,EMI,12/5/2021,Florida,Orlando,2021-12
+B-26244,5442,1610,1,Phones,EMI,12/5/2021,Florida,Orlando,2021-12
+B-26365,1895,391,14,Tables,UPI,7/5/2024,Florida,Tampa,2024-07
+B-26365,5323,322,13,Binders,COD,7/5/2024,Florida,Tampa,2024-07
+B-26212,8850,279,13,Markers,Debit Card,6/25/2024,Florida,Miami,2024-06
+B-26212,8667,1266,6,Paper,Debit Card,6/25/2024,Florida,Miami,2024-06
+B-25042,6903,105,1,Tables,COD,5/31/2024,Illinois,Chicago,2024-05
+B-25042,8793,3010,7,Pens,COD,5/31/2024,Illinois,Chicago,2024-05
+B-25901,9883,4812,16,Paper,UPI,10/20/2020,New York,Buffalo,2020-10
+B-25901,9883,4812,16,Paper,UPI,8/11/2022,Florida,Orlando,2022-08
+B-25901,9883,4812,16,Paper,UPI,10/17/2021,Illinois,Springfield,2021-10
+B-25901,5210,1185,7,Paper,UPI,10/20/2020,New York,Buffalo,2020-10
+B-25901,5210,1185,7,Paper,UPI,8/11/2022,Florida,Orlando,2022-08
+B-25901,5210,1185,7,Paper,UPI,10/17/2021,Illinois,Springfield,2021-10
+B-26747,3574,851,4,Printers,Credit Card,2/23/2022,California,Los Angeles,2022-02
+B-26747,576,76,13,Sofas,UPI,2/23/2022,California,Los Angeles,2022-02
+B-26698,1860,457,13,Printers,EMI,9/20/2023,Ohio,Cleveland,2023-09
+B-25841,782,374,8,Pens,EMI,1/19/2021,Illinois,Peoria,2021-01
+B-25841,4371,1852,1,Laptops,UPI,1/19/2021,Illinois,Peoria,2021-01
+B-26032,8346,1176,1,Phones,COD,8/21/2020,Texas,Houston,2020-08
+B-26032,8346,1176,1,Phones,COD,4/17/2023,Illinois,Chicago,2023-04
+B-26032,8346,1176,1,Phones,COD,12/24/2023,California,San Francisco,2023-12
+B-26032,6218,1125,5,Tables,Debit Card,8/21/2020,Texas,Houston,2020-08
+B-26032,6218,1125,5,Tables,Debit Card,4/17/2023,Illinois,Chicago,2023-04
+B-26032,6218,1125,5,Tables,Debit Card,12/24/2023,California,San Francisco,2023-12
+B-26032,5167,253,14,Printers,Credit Card,8/21/2020,Texas,Houston,2020-08
+B-26032,5167,253,14,Printers,Credit Card,4/17/2023,Illinois,Chicago,2023-04
+B-26032,5167,253,14,Printers,Credit Card,12/24/2023,California,San Francisco,2023-12
+B-26032,2799,1239,5,Sofas,Debit Card,8/21/2020,Texas,Houston,2020-08
+B-26032,2799,1239,5,Sofas,Debit Card,4/17/2023,Illinois,Chicago,2023-04
+B-26032,2799,1239,5,Sofas,Debit Card,12/24/2023,California,San Francisco,2023-12
+B-25171,3234,1029,20,Markers,Credit Card,3/20/2022,Florida,Miami,2022-03
+B-26939,4920,775,12,Tables,Debit Card,8/12/2021,Illinois,Springfield,2021-08
+B-26939,9078,2213,15,Bookcases,EMI,8/12/2021,Illinois,Springfield,2021-08
+B-26347,8586,3826,7,Bookcases,UPI,12/21/2020,Florida,Miami,2020-12
+B-26347,8586,3826,7,Bookcases,UPI,7/7/2023,Florida,Tampa,2023-07
+B-25388,5047,2211,13,Sofas,EMI,8/13/2023,California,San Francisco,2023-08
+B-25388,5047,2211,13,Sofas,EMI,2/4/2021,Illinois,Chicago,2021-02
+B-25388,5047,2211,13,Sofas,EMI,9/16/2022,Illinois,Peoria,2022-09
+B-25388,5047,2211,13,Sofas,EMI,5/6/2022,New York,Buffalo,2022-05
+B-26419,3657,163,1,Sofas,UPI,5/28/2021,California,San Francisco,2021-05
+B-25157,6471,2842,18,Electronic Games,UPI,7/18/2024,Illinois,Peoria,2024-07
+B-25342,949,301,9,Binders,UPI,12/6/2024,Ohio,Cleveland,2024-12
+B-25342,6823,771,6,Binders,EMI,12/6/2024,Ohio,Cleveland,2024-12
+B-25342,4364,831,2,Tables,EMI,12/6/2024,Ohio,Cleveland,2024-12
+B-26165,6671,2797,10,Phones,UPI,12/12/2022,Illinois,Peoria,2022-12
+B-26571,7472,1037,3,Paper,COD,10/20/2022,Illinois,Springfield,2022-10
+B-26571,9548,1806,9,Printers,COD,10/20/2022,Illinois,Springfield,2022-10
+B-25400,7759,3741,17,Printers,UPI,3/24/2021,Florida,Miami,2021-03
+B-25400,7759,3741,17,Printers,UPI,1/6/2025,Texas,Dallas,2025-01
+B-25400,7521,3457,16,Markers,Debit Card,3/24/2021,Florida,Miami,2021-03
+B-25400,7521,3457,16,Markers,Debit Card,1/6/2025,Texas,Dallas,2025-01
+B-25885,9704,4339,12,Pens,COD,3/6/2021,Texas,Houston,2021-03
+B-25885,4948,2356,18,Printers,Debit Card,3/6/2021,Texas,Houston,2021-03
+B-25885,6435,334,10,Electronic Games,Debit Card,3/6/2021,Texas,Houston,2021-03
+B-25004,9965,3033,16,Markers,COD,6/17/2020,California,San Francisco,2020-06
+B-25004,9965,3033,16,Markers,COD,9/1/2023,New York,Buffalo,2023-09
+B-26213,1523,234,3,Sofas,UPI,6/8/2023,New York,Rochester,2023-06
+B-26213,9073,424,7,Electronic Games,Debit Card,6/8/2023,New York,Rochester,2023-06
+B-25025,6447,3079,20,Laptops,COD,3/25/2021,New York,Rochester,2021-03
+B-25025,8947,2807,6,Electronic Games,Credit Card,3/25/2021,New York,Rochester,2021-03
+B-26804,914,400,8,Pens,Debit Card,1/3/2021,California,Los Angeles,2021-01
+B-26804,1548,666,3,Paper,Credit Card,1/3/2021,California,Los Angeles,2021-01
+B-26797,2759,1149,6,Tables,Credit Card,12/27/2024,New York,New York City,2024-12
+B-26556,1341,615,4,Laptops,UPI,8/12/2022,Florida,Orlando,2022-08
+B-25861,9851,2669,19,Electronic Games,Debit Card,3/28/2022,Ohio,Cleveland,2022-03
+B-25861,9851,2669,19,Electronic Games,Debit Card,7/15/2023,New York,Buffalo,2023-07
+B-25861,9851,2669,19,Electronic Games,Debit Card,9/22/2022,Florida,Orlando,2022-09
+B-25861,9989,3930,14,Tables,Debit Card,3/28/2022,Ohio,Cleveland,2022-03
+B-25861,9989,3930,14,Tables,Debit Card,7/15/2023,New York,Buffalo,2023-07
+B-25861,9989,3930,14,Tables,Debit Card,9/22/2022,Florida,Orlando,2022-09
+B-25112,7421,958,10,Tables,COD,12/20/2022,Texas,Houston,2022-12
+B-25112,7421,958,10,Tables,COD,1/16/2022,Texas,Houston,2022-01
+B-25112,7421,958,10,Tables,COD,1/29/2023,Texas,Dallas,2023-01
+B-25223,3099,479,1,Paper,COD,1/15/2022,New York,Buffalo,2022-01
+B-25223,2521,906,7,Phones,COD,1/15/2022,New York,Buffalo,2022-01
+B-25714,6962,3429,12,Electronic Games,UPI,3/24/2024,Texas,Dallas,2024-03
+B-25714,6962,3429,12,Electronic Games,UPI,2/19/2025,Florida,Miami,2025-02
+B-26607,1085,301,20,Bookcases,UPI,7/13/2024,New York,Buffalo,2024-07
+B-25038,738,342,2,Chairs,Debit Card,4/28/2023,Ohio,Cincinnati,2023-04
+B-25038,738,342,2,Chairs,Debit Card,12/5/2020,New York,Buffalo,2020-12
+B-25038,738,342,2,Chairs,Debit Card,5/14/2024,Ohio,Cincinnati,2024-05
+B-25038,738,342,2,Chairs,Debit Card,1/18/2022,New York,New York City,2022-01
+B-26672,1366,242,17,Electronic Games,EMI,9/18/2023,Ohio,Columbus,2023-09
+B-26672,1518,155,13,Markers,Credit Card,9/18/2023,Ohio,Columbus,2023-09
+B-25747,2962,1470,1,Phones,COD,5/12/2021,New York,Buffalo,2021-05
+B-25747,2962,1470,1,Phones,COD,9/17/2023,Florida,Tampa,2023-09
+B-25747,7131,718,12,Printers,UPI,5/12/2021,New York,Buffalo,2021-05
+B-25747,7131,718,12,Printers,UPI,9/17/2023,Florida,Tampa,2023-09
+B-25747,4200,855,10,Markers,EMI,5/12/2021,New York,Buffalo,2021-05
+B-25747,4200,855,10,Markers,EMI,9/17/2023,Florida,Tampa,2023-09
+B-26322,5934,1563,2,Markers,EMI,9/6/2024,Illinois,Peoria,2024-09
+B-26613,2701,322,11,Printers,UPI,6/18/2022,New York,New York City,2022-06
+B-26613,7273,2702,18,Paper,COD,6/18/2022,New York,New York City,2022-06
+B-25413,2465,699,18,Markers,Debit Card,5/22/2020,California,San Francisco,2020-05
+B-26466,3479,1087,2,Markers,EMI,10/17/2024,Texas,Dallas,2024-10
+B-26466,5457,1765,7,Printers,EMI,10/17/2024,Texas,Dallas,2024-10
+B-26610,4957,1152,8,Markers,Credit Card,3/22/2022,Ohio,Cleveland,2022-03
+B-26209,4404,858,17,Pens,Debit Card,3/17/2024,Ohio,Columbus,2024-03
+B-26209,8776,2529,15,Sofas,Credit Card,3/17/2024,Ohio,Columbus,2024-03
+B-26622,9536,1437,9,Phones,UPI,4/2/2020,Florida,Orlando,2020-04
+B-26622,2225,589,7,Sofas,Credit Card,4/2/2020,Florida,Orlando,2020-04
+B-26601,9574,4045,19,Bookcases,UPI,3/13/2024,California,San Francisco,2024-03
+B-26601,4382,482,17,Electronic Games,COD,3/13/2024,California,San Francisco,2024-03
+B-25894,8200,257,19,Laptops,COD,3/21/2023,Ohio,Cincinnati,2023-03
+B-25894,9316,3003,13,Sofas,Credit Card,3/21/2023,Ohio,Cincinnati,2023-03
+B-25894,6379,3128,15,Electronic Games,COD,3/21/2023,Ohio,Cincinnati,2023-03
+B-26969,3348,568,5,Markers,Credit Card,3/2/2024,Ohio,Cleveland,2024-03
+B-26969,3348,568,5,Markers,Credit Card,4/30/2021,New York,Rochester,2021-04
+B-26969,8856,2020,9,Pens,Debit Card,3/2/2024,Ohio,Cleveland,2024-03
+B-26969,8856,2020,9,Pens,Debit Card,4/30/2021,New York,Rochester,2021-04
+B-26312,1760,619,16,Sofas,Debit Card,9/15/2021,Ohio,Columbus,2021-09
+B-26312,1760,619,16,Sofas,Debit Card,1/28/2023,Texas,Houston,2023-01
+B-26312,6351,986,15,Printers,UPI,9/15/2021,Ohio,Columbus,2021-09
+B-26312,6351,986,15,Printers,UPI,1/28/2023,Texas,Houston,2023-01
+B-26837,869,373,14,Paper,Credit Card,7/8/2021,New York,New York City,2021-07
+B-26837,869,373,14,Paper,Credit Card,4/8/2020,Ohio,Cleveland,2020-04
+B-26837,1486,114,7,Bookcases,UPI,7/8/2021,New York,New York City,2021-07
+B-26837,1486,114,7,Bookcases,UPI,4/8/2020,Ohio,Cleveland,2020-04
+B-26166,2999,145,13,Binders,COD,8/23/2022,Illinois,Chicago,2022-08
+B-26166,5142,1916,20,Paper,EMI,8/23/2022,Illinois,Chicago,2022-08
+B-25695,1239,575,17,Laptops,UPI,12/17/2022,New York,Rochester,2022-12
+B-25695,1239,575,17,Laptops,UPI,6/8/2022,Illinois,Springfield,2022-06
+B-25695,1262,515,16,Electronic Games,EMI,12/17/2022,New York,Rochester,2022-12
+B-25695,1262,515,16,Electronic Games,EMI,6/8/2022,Illinois,Springfield,2022-06
+B-26068,1033,254,5,Bookcases,COD,8/28/2020,New York,Rochester,2020-08
+B-26023,1518,159,19,Printers,UPI,9/26/2020,California,San Diego,2020-09
+B-26677,8581,2444,2,Paper,Debit Card,12/13/2020,Illinois,Peoria,2020-12
+B-26677,8581,2444,2,Paper,Debit Card,11/19/2020,Florida,Orlando,2020-11
+B-25701,1167,463,5,Pens,UPI,9/13/2023,Texas,Austin,2023-09
+B-25701,2841,803,20,Laptops,Credit Card,9/13/2023,Texas,Austin,2023-09
+B-25701,5680,2159,19,Tables,UPI,9/13/2023,Texas,Austin,2023-09
+B-26523,8204,2382,6,Pens,UPI,3/31/2020,Illinois,Chicago,2020-03
+B-26523,8204,2382,6,Pens,UPI,10/20/2020,New York,Buffalo,2020-10
+B-26523,2850,904,6,Phones,EMI,3/31/2020,Illinois,Chicago,2020-03
+B-26523,2850,904,6,Phones,EMI,10/20/2020,New York,Buffalo,2020-10
+B-25880,907,391,9,Pens,Credit Card,8/4/2023,New York,New York City,2023-08
+B-26898,2174,265,19,Pens,Credit Card,4/11/2022,Ohio,Cincinnati,2022-04
+B-26898,8541,2029,12,Electronic Games,Credit Card,4/11/2022,Ohio,Cincinnati,2022-04
+B-26898,1931,551,3,Bookcases,EMI,4/11/2022,Ohio,Cincinnati,2022-04
+B-26035,1281,340,3,Electronic Games,Debit Card,12/31/2021,Texas,Austin,2021-12
+B-26035,2404,253,15,Laptops,COD,12/31/2021,Texas,Austin,2021-12
+B-25573,2119,196,1,Sofas,COD,8/16/2020,California,Los Angeles,2020-08
+B-25463,3137,571,9,Pens,Debit Card,2/2/2025,Illinois,Chicago,2025-02
+B-26277,2323,727,7,Tables,COD,2/24/2022,Texas,Dallas,2022-02
+B-26277,1368,406,9,Bookcases,UPI,2/24/2022,Texas,Dallas,2022-02
+B-26508,9204,3289,16,Laptops,Credit Card,2/25/2024,Florida,Miami,2024-02
+B-26508,9204,3289,16,Laptops,Credit Card,6/15/2021,Florida,Miami,2021-06
+B-26508,9894,3698,20,Paper,EMI,2/25/2024,Florida,Miami,2024-02
+B-26508,9894,3698,20,Paper,EMI,6/15/2021,Florida,Miami,2021-06
+B-26723,5322,1423,18,Sofas,COD,12/8/2022,Texas,Houston,2022-12
+B-26723,5322,1423,18,Sofas,COD,12/9/2023,Texas,Dallas,2023-12
+B-25526,2666,559,14,Chairs,COD,7/16/2022,Ohio,Cleveland,2022-07
+B-25645,8383,937,4,Sofas,UPI,5/5/2024,Florida,Orlando,2024-05
+B-25757,7560,821,4,Paper,EMI,10/4/2021,Illinois,Chicago,2021-10
+B-26716,1314,490,16,Sofas,UPI,11/20/2021,New York,Buffalo,2021-11
+B-26716,4390,179,1,Tables,Debit Card,11/20/2021,New York,Buffalo,2021-11
+B-26716,1150,58,7,Binders,Debit Card,11/20/2021,New York,Buffalo,2021-11
+B-25424,1574,258,17,Pens,EMI,9/15/2020,California,San Diego,2020-09
+B-25424,5635,318,17,Binders,UPI,9/15/2020,California,San Diego,2020-09
+B-25424,6515,961,11,Sofas,Debit Card,9/15/2020,California,San Diego,2020-09
+B-26453,1231,214,20,Laptops,Debit Card,1/17/2023,Ohio,Columbus,2023-01
+B-26453,1231,214,20,Laptops,Debit Card,6/16/2020,New York,Rochester,2020-06
+B-26425,6891,2529,3,Binders,Debit Card,5/1/2024,Ohio,Cleveland,2024-05
+B-25843,7524,2308,15,Laptops,EMI,12/7/2023,Texas,Austin,2023-12
+B-25843,6864,1824,14,Printers,Credit Card,12/7/2023,Texas,Austin,2023-12
+B-25486,4215,432,14,Chairs,Debit Card,2/2/2024,Ohio,Columbus,2024-02
+B-26975,622,218,19,Bookcases,Credit Card,6/23/2024,California,San Diego,2024-06
+B-26975,1755,495,18,Pens,UPI,6/23/2024,California,San Diego,2024-06
+B-26975,8020,3898,20,Electronic Games,EMI,6/23/2024,California,San Diego,2024-06
+B-26890,7333,1576,4,Laptops,Credit Card,6/7/2024,New York,Buffalo,2024-06
+B-26125,7690,1134,4,Electronic Games,COD,10/13/2023,New York,Rochester,2023-10
+B-26125,912,246,2,Sofas,EMI,10/13/2023,New York,Rochester,2023-10
+B-26489,2791,894,14,Laptops,COD,10/8/2022,Texas,Austin,2022-10
+B-26489,2791,894,14,Laptops,COD,10/27/2023,Ohio,Cincinnati,2023-10
+B-26489,2791,894,14,Laptops,COD,2/9/2021,Texas,Dallas,2021-02
+B-26489,6223,1478,3,Sofas,Debit Card,10/8/2022,Texas,Austin,2022-10
+B-26489,6223,1478,3,Sofas,Debit Card,10/27/2023,Ohio,Cincinnati,2023-10
+B-26489,6223,1478,3,Sofas,Debit Card,2/9/2021,Texas,Dallas,2021-02
+B-26489,8943,3121,17,Chairs,Debit Card,10/8/2022,Texas,Austin,2022-10
+B-26489,8943,3121,17,Chairs,Debit Card,10/27/2023,Ohio,Cincinnati,2023-10
+B-26489,8943,3121,17,Chairs,Debit Card,2/9/2021,Texas,Dallas,2021-02
+B-26489,3297,102,12,Phones,Credit Card,10/8/2022,Texas,Austin,2022-10
+B-26489,3297,102,12,Phones,Credit Card,10/27/2023,Ohio,Cincinnati,2023-10
+B-26489,3297,102,12,Phones,Credit Card,2/9/2021,Texas,Dallas,2021-02
+B-26043,8769,1989,20,Paper,UPI,11/3/2020,Illinois,Chicago,2020-11
+B-26557,9057,1888,19,Printers,COD,5/30/2022,Florida,Orlando,2022-05
+B-26557,6864,3275,11,Tables,Credit Card,5/30/2022,Florida,Orlando,2022-05
+B-26557,9200,809,13,Laptops,COD,5/30/2022,Florida,Orlando,2022-05
+B-25243,6113,2508,6,Laptops,UPI,6/16/2024,Florida,Orlando,2024-06
+B-25243,7733,2784,15,Tables,EMI,6/16/2024,Florida,Orlando,2024-06
+B-25243,8524,154,14,Tables,COD,6/16/2024,Florida,Orlando,2024-06
+B-25243,6187,2344,15,Bookcases,EMI,6/16/2024,Florida,Orlando,2024-06
+B-26932,4364,148,18,Tables,EMI,7/15/2022,Ohio,Cincinnati,2022-07
+B-26932,736,286,12,Pens,EMI,7/15/2022,Ohio,Cincinnati,2022-07
+B-25241,9905,633,17,Pens,EMI,7/18/2021,Texas,Dallas,2021-07
+B-25241,9905,633,17,Pens,EMI,10/2/2021,Florida,Tampa,2021-10
+B-25044,2493,1221,9,Paper,Credit Card,4/16/2024,Illinois,Springfield,2024-04
+B-25044,9849,963,1,Pens,Credit Card,4/16/2024,Illinois,Springfield,2024-04
+B-26137,3423,804,4,Printers,Credit Card,7/9/2020,Illinois,Peoria,2020-07
+B-26137,3423,804,4,Printers,Credit Card,7/25/2020,Texas,Dallas,2020-07
+B-26137,3423,804,4,Printers,Credit Card,1/24/2024,Texas,Austin,2024-01
+B-26137,3423,804,4,Printers,Credit Card,5/4/2020,Texas,Dallas,2020-05
+B-26137,3423,804,4,Printers,Credit Card,11/13/2021,Ohio,Cincinnati,2021-11
+B-25545,3900,115,9,Chairs,COD,10/7/2023,Illinois,Springfield,2023-10
+B-26800,8568,2419,11,Electronic Games,UPI,10/23/2021,New York,Rochester,2021-10
+B-26800,3283,71,6,Pens,EMI,10/23/2021,New York,Rochester,2021-10
+B-26987,7643,3720,19,Electronic Games,EMI,7/18/2022,Texas,Dallas,2022-07
+B-26144,3461,1537,15,Sofas,EMI,8/23/2024,Illinois,Chicago,2024-08
+B-26144,5714,1438,6,Electronic Games,Credit Card,8/23/2024,Illinois,Chicago,2024-08
+B-26144,3853,1457,10,Binders,COD,8/23/2024,Illinois,Chicago,2024-08
+B-25406,6016,431,20,Pens,UPI,10/28/2020,Illinois,Chicago,2020-10
+B-25658,1290,204,12,Markers,UPI,6/15/2024,New York,Buffalo,2024-06
+B-25658,1290,204,12,Markers,UPI,12/19/2024,California,San Francisco,2024-12
+B-25733,4569,1693,10,Printers,UPI,9/4/2020,Illinois,Springfield,2020-09
+B-26993,3083,1151,16,Bookcases,Debit Card,4/16/2022,Florida,Orlando,2022-04
+B-26964,3522,898,15,Pens,Credit Card,8/29/2024,Ohio,Cleveland,2024-08
+B-26964,3522,898,15,Pens,Credit Card,1/14/2022,California,Los Angeles,2022-01
+B-26955,7301,3602,3,Binders,Debit Card,4/7/2024,Texas,Houston,2024-04
+B-26059,4462,121,8,Laptops,COD,4/24/2022,Illinois,Springfield,2022-04
+B-26059,6212,1881,17,Phones,COD,4/24/2022,Illinois,Springfield,2022-04
+B-26806,4027,1386,3,Bookcases,EMI,8/27/2020,Florida,Tampa,2020-08
+B-26299,1676,330,14,Laptops,EMI,3/1/2023,Ohio,Cleveland,2023-03
+B-26299,3927,1133,12,Bookcases,COD,3/1/2023,Ohio,Cleveland,2023-03
+B-26299,2776,887,9,Phones,Debit Card,3/1/2023,Ohio,Cleveland,2023-03
+B-26743,7684,1157,12,Sofas,COD,10/2/2020,Illinois,Chicago,2020-10
+B-26743,7684,1157,12,Sofas,COD,6/23/2020,New York,Buffalo,2020-06
+B-26743,7684,1157,12,Sofas,COD,8/21/2023,Ohio,Columbus,2023-08
+B-26757,6008,2498,17,Phones,Credit Card,7/16/2022,Florida,Miami,2022-07
+B-26772,7344,2598,20,Bookcases,COD,8/1/2022,Texas,Dallas,2022-08
+B-26088,6932,3218,20,Pens,COD,7/16/2020,Florida,Orlando,2020-07
+B-26319,7748,1706,16,Electronic Games,EMI,5/2/2020,Ohio,Cincinnati,2020-05
+B-26319,6381,2763,20,Markers,UPI,5/2/2020,Ohio,Cincinnati,2020-05
+B-26319,992,64,6,Phones,Credit Card,5/2/2020,Ohio,Cincinnati,2020-05
+B-25364,8649,2631,13,Laptops,EMI,1/10/2024,California,San Francisco,2024-01
+B-25364,8649,2631,13,Laptops,EMI,9/30/2020,New York,Rochester,2020-09
+B-25655,4099,52,18,Laptops,UPI,3/28/2022,New York,New York City,2022-03
+B-26864,2539,324,5,Electronic Games,UPI,1/30/2021,California,San Francisco,2021-01
+B-26019,9845,3062,9,Paper,COD,3/14/2025,Florida,Orlando,2025-03
+B-25849,2901,1411,2,Paper,Debit Card,10/26/2021,Texas,Austin,2021-10
+B-25849,2901,1411,2,Paper,Debit Card,1/11/2023,California,Los Angeles,2023-01
+B-25849,6934,1152,6,Pens,Credit Card,10/26/2021,Texas,Austin,2021-10
+B-25849,6934,1152,6,Pens,Credit Card,1/11/2023,California,Los Angeles,2023-01
+B-25829,9640,2606,2,Bookcases,Credit Card,10/31/2021,Illinois,Peoria,2021-10
+B-26065,7930,1981,13,Chairs,Credit Card,5/4/2023,Ohio,Cleveland,2023-05
+B-26065,7930,1981,13,Chairs,Credit Card,8/9/2024,Illinois,Springfield,2024-08
+B-25267,9894,829,1,Binders,COD,8/21/2022,California,San Diego,2022-08
+B-25267,4534,2235,4,Tables,COD,8/21/2022,California,San Diego,2022-08
+B-25972,4911,186,20,Phones,Debit Card,6/19/2022,New York,Buffalo,2022-06
+B-25972,531,189,20,Bookcases,Debit Card,6/19/2022,New York,Buffalo,2022-06
+B-25511,9707,3483,10,Electronic Games,EMI,1/29/2025,Illinois,Peoria,2025-01
+B-25511,8521,2584,7,Paper,COD,1/29/2025,Illinois,Peoria,2025-01
+B-25744,8438,3427,12,Binders,Credit Card,1/14/2022,New York,Buffalo,2022-01
+B-25744,1689,109,9,Electronic Games,UPI,1/14/2022,New York,Buffalo,2022-01
+B-25744,3936,1626,14,Paper,COD,1/14/2022,New York,Buffalo,2022-01
+B-26805,7664,1753,19,Phones,Debit Card,6/15/2023,Ohio,Cincinnati,2023-06
+B-25620,721,258,13,Laptops,Debit Card,10/18/2023,Illinois,Peoria,2023-10
+B-25620,721,258,13,Laptops,Debit Card,6/13/2022,New York,Buffalo,2022-06
+B-25620,8364,3055,17,Laptops,Credit Card,10/18/2023,Illinois,Peoria,2023-10
+B-25620,8364,3055,17,Laptops,Credit Card,6/13/2022,New York,Buffalo,2022-06
+B-25620,5234,2021,15,Bookcases,EMI,10/18/2023,Illinois,Peoria,2023-10
+B-25620,5234,2021,15,Bookcases,EMI,6/13/2022,New York,Buffalo,2022-06
+B-25325,3944,1559,18,Phones,Credit Card,6/12/2024,California,San Francisco,2024-06
+B-25325,6711,1045,12,Pens,Credit Card,6/12/2024,California,San Francisco,2024-06
+B-25325,5031,714,4,Tables,Credit Card,6/12/2024,California,San Francisco,2024-06
+B-25325,6295,2469,14,Binders,EMI,6/12/2024,California,San Francisco,2024-06
+B-25131,9654,4111,1,Paper,UPI,6/27/2022,California,San Francisco,2022-06
+B-25131,3112,1065,20,Binders,COD,6/27/2022,California,San Francisco,2022-06
+B-26654,7838,1142,13,Phones,UPI,2/18/2021,California,San Francisco,2021-02
+B-26654,9300,3146,6,Phones,Credit Card,2/18/2021,California,San Francisco,2021-02
+B-26654,1733,133,17,Paper,Debit Card,2/18/2021,California,San Francisco,2021-02
+B-26195,874,235,15,Binders,Debit Card,5/29/2023,New York,Rochester,2023-05
+B-26195,874,235,15,Binders,Debit Card,6/4/2021,Florida,Miami,2021-06
+B-25842,1248,584,13,Pens,EMI,1/22/2024,Ohio,Columbus,2024-01
+B-25842,1248,584,13,Pens,EMI,12/27/2022,California,San Francisco,2022-12
+B-25842,3669,154,14,Markers,EMI,1/22/2024,Ohio,Columbus,2024-01
+B-25842,3669,154,14,Markers,EMI,12/27/2022,California,San Francisco,2022-12
+B-25842,514,109,15,Paper,Debit Card,1/22/2024,Ohio,Columbus,2024-01
+B-25842,514,109,15,Paper,Debit Card,12/27/2022,California,San Francisco,2022-12
+B-25851,3273,85,16,Phones,UPI,3/30/2024,Ohio,Cincinnati,2024-03
+B-25427,5035,2008,2,Chairs,COD,4/4/2020,Florida,Miami,2020-04
+B-25427,7702,60,19,Printers,UPI,4/4/2020,Florida,Miami,2020-04
+B-25427,9884,4446,7,Printers,EMI,4/4/2020,Florida,Miami,2020-04
+B-26224,5564,175,11,Laptops,COD,1/22/2023,Illinois,Chicago,2023-01
+B-26224,5564,175,11,Laptops,COD,4/12/2022,Texas,Houston,2022-04
+B-26224,5564,175,11,Laptops,COD,12/13/2023,Florida,Miami,2023-12
+B-26224,3953,1776,15,Electronic Games,UPI,1/22/2023,Illinois,Chicago,2023-01
+B-26224,3953,1776,15,Electronic Games,UPI,4/12/2022,Texas,Houston,2022-04
+B-26224,3953,1776,15,Electronic Games,UPI,12/13/2023,Florida,Miami,2023-12
+B-26896,6488,1591,18,Printers,EMI,5/24/2023,Texas,Dallas,2023-05
+B-26896,6488,1591,18,Printers,EMI,11/29/2020,Texas,Houston,2020-11
+B-26469,7856,3699,17,Electronic Games,UPI,3/24/2021,Florida,Orlando,2021-03
+B-26469,1165,51,3,Pens,EMI,3/24/2021,Florida,Orlando,2021-03
+B-26219,9386,2555,20,Markers,Credit Card,8/19/2020,California,San Diego,2020-08
+B-26219,9386,2555,20,Markers,Credit Card,10/20/2022,Ohio,Cleveland,2022-10
+B-26119,3956,142,12,Pens,Debit Card,9/20/2023,Florida,Tampa,2023-09
+B-26119,3956,142,12,Pens,Debit Card,12/26/2024,Texas,Dallas,2024-12
+B-26119,6449,2628,11,Bookcases,EMI,9/20/2023,Florida,Tampa,2023-09
+B-26119,6449,2628,11,Bookcases,EMI,12/26/2024,Texas,Dallas,2024-12
+B-26988,6255,437,18,Markers,COD,12/3/2021,New York,Rochester,2021-12
+B-26988,2109,681,20,Electronic Games,UPI,12/3/2021,New York,Rochester,2021-12
+B-25596,6707,1041,20,Phones,Credit Card,9/14/2021,Texas,Austin,2021-09
+B-26845,7633,184,13,Pens,COD,9/30/2021,Illinois,Springfield,2021-09
+B-25099,975,224,18,Pens,COD,12/22/2021,California,San Diego,2021-12
+B-25099,4492,1450,7,Tables,EMI,12/22/2021,California,San Diego,2021-12
+B-25099,7957,2834,12,Chairs,UPI,12/22/2021,California,San Diego,2021-12
+B-26153,4906,975,7,Tables,Debit Card,5/18/2022,Texas,Houston,2022-05
+B-25060,1379,250,3,Pens,Credit Card,10/8/2020,New York,Buffalo,2020-10
+B-25060,4244,340,10,Laptops,Debit Card,10/8/2020,New York,Buffalo,2020-10
+B-26572,5911,2333,14,Bookcases,EMI,8/20/2022,California,San Diego,2022-08
+B-26572,5911,2333,14,Bookcases,EMI,11/25/2024,California,San Francisco,2024-11
+B-26572,1818,738,11,Markers,EMI,8/20/2022,California,San Diego,2022-08
+B-26572,1818,738,11,Markers,EMI,11/25/2024,California,San Francisco,2024-11
+B-25919,2140,970,4,Paper,Credit Card,9/30/2020,California,San Diego,2020-09
+B-25919,2140,970,4,Paper,Credit Card,2/20/2025,Florida,Orlando,2025-02
+B-25919,2140,970,4,Paper,Credit Card,3/20/2022,California,San Francisco,2022-03
+B-25919,2670,1026,1,Laptops,Debit Card,9/30/2020,California,San Diego,2020-09
+B-25919,2670,1026,1,Laptops,Debit Card,2/20/2025,Florida,Orlando,2025-02
+B-25919,2670,1026,1,Laptops,Debit Card,3/20/2022,California,San Francisco,2022-03
+B-26978,1108,167,18,Laptops,Debit Card,3/7/2025,Illinois,Springfield,2025-03
+B-26978,9776,3750,9,Binders,UPI,3/7/2025,Illinois,Springfield,2025-03
+B-26978,535,72,6,Bookcases,COD,3/7/2025,Illinois,Springfield,2025-03
+B-26554,7564,3463,5,Paper,Credit Card,6/16/2024,Florida,Tampa,2024-06
+B-26554,7564,3463,5,Paper,Credit Card,11/21/2020,Illinois,Peoria,2020-11
+B-26554,7564,3463,5,Paper,Credit Card,10/1/2024,Florida,Miami,2024-10
+B-26554,7564,3463,5,Paper,Credit Card,7/1/2024,Texas,Houston,2024-07
+B-26554,3409,1605,20,Electronic Games,UPI,6/16/2024,Florida,Tampa,2024-06
+B-26554,3409,1605,20,Electronic Games,UPI,11/21/2020,Illinois,Peoria,2020-11
+B-26554,3409,1605,20,Electronic Games,UPI,10/1/2024,Florida,Miami,2024-10
+B-26554,3409,1605,20,Electronic Games,UPI,7/1/2024,Texas,Houston,2024-07
+B-26883,9751,2459,13,Pens,COD,11/23/2020,New York,Buffalo,2020-11
+B-25423,6385,2656,11,Printers,Credit Card,3/18/2023,Florida,Orlando,2023-03
+B-25423,6385,2656,11,Printers,Credit Card,10/19/2022,Florida,Tampa,2022-10
+B-26324,6355,1335,15,Electronic Games,Debit Card,8/31/2023,Texas,Austin,2023-08
+B-26324,6355,1335,15,Electronic Games,Debit Card,6/6/2021,Texas,Austin,2021-06
+B-26945,7377,320,15,Printers,Debit Card,12/21/2022,Texas,Austin,2022-12
+B-26945,2054,371,12,Markers,EMI,12/21/2022,Texas,Austin,2022-12
+B-26405,7497,319,18,Chairs,COD,2/12/2024,Illinois,Peoria,2024-02
+B-26046,2565,983,20,Electronic Games,Debit Card,12/5/2022,Florida,Miami,2022-12
+B-26046,5024,1544,19,Pens,COD,12/5/2022,Florida,Miami,2022-12
+B-25746,8243,1346,15,Binders,Debit Card,4/4/2021,Texas,Houston,2021-04
+B-25232,7792,1403,13,Paper,UPI,2/12/2021,Illinois,Peoria,2021-02
+B-25232,7792,1403,13,Paper,UPI,12/27/2022,New York,Rochester,2022-12
+B-25232,7792,1403,13,Paper,UPI,1/19/2024,California,San Diego,2024-01
+B-25232,2346,388,14,Chairs,Debit Card,2/12/2021,Illinois,Peoria,2021-02
+B-25232,2346,388,14,Chairs,Debit Card,12/27/2022,New York,Rochester,2022-12
+B-25232,2346,388,14,Chairs,Debit Card,1/19/2024,California,San Diego,2024-01
+B-25591,7346,1043,10,Sofas,Credit Card,12/25/2022,Ohio,Columbus,2022-12
+B-25591,9770,4132,7,Electronic Games,UPI,12/25/2022,Ohio,Columbus,2022-12
+B-25591,7179,683,13,Laptops,Credit Card,12/25/2022,Ohio,Columbus,2022-12
+B-26325,5449,2389,2,Phones,UPI,10/6/2022,Florida,Miami,2022-10
+B-25251,2895,104,6,Chairs,COD,4/27/2020,New York,Buffalo,2020-04
+B-25251,2895,104,6,Chairs,COD,5/13/2024,Texas,Houston,2024-05
+B-25251,697,116,1,Chairs,UPI,4/27/2020,New York,Buffalo,2020-04
+B-25251,697,116,1,Chairs,UPI,5/13/2024,Texas,Houston,2024-05
+B-25464,6145,1414,4,Chairs,COD,10/23/2020,California,Los Angeles,2020-10
+B-25464,2504,440,18,Printers,UPI,10/23/2020,California,Los Angeles,2020-10
+B-25464,3124,138,16,Phones,Debit Card,10/23/2020,California,Los Angeles,2020-10
+B-26678,6934,1226,1,Electronic Games,Debit Card,6/11/2021,Ohio,Cincinnati,2021-06
+B-26678,6934,1226,1,Electronic Games,Debit Card,9/8/2021,New York,Rochester,2021-09
+B-25962,4202,1171,3,Markers,COD,11/23/2022,Illinois,Peoria,2022-11
+B-25962,4202,1171,3,Markers,COD,10/31/2022,New York,Rochester,2022-10
+B-25962,4202,1171,3,Markers,COD,11/6/2023,Florida,Tampa,2023-11
+B-25962,4202,1171,3,Markers,COD,11/12/2023,Texas,Houston,2023-11
+B-26586,2239,828,1,Printers,UPI,6/26/2023,California,Los Angeles,2023-06
+B-26586,2239,828,1,Printers,UPI,9/30/2023,Illinois,Chicago,2023-09
+B-26586,2450,1002,4,Phones,Debit Card,6/26/2023,California,Los Angeles,2023-06
+B-26586,2450,1002,4,Phones,Debit Card,9/30/2023,Illinois,Chicago,2023-09
+B-26841,9827,4208,13,Chairs,Debit Card,9/12/2020,New York,New York City,2020-09
+B-26841,8077,240,15,Sofas,Credit Card,9/12/2020,New York,New York City,2020-09
+B-26284,5152,2045,14,Phones,UPI,11/27/2020,Illinois,Springfield,2020-11
+B-26284,5152,2045,14,Phones,UPI,8/25/2022,California,Los Angeles,2022-08
+B-26284,5152,2045,14,Phones,UPI,8/23/2023,Illinois,Chicago,2023-08
+B-26284,5152,2045,14,Phones,UPI,10/11/2023,New York,Rochester,2023-10
+B-26478,2542,190,1,Markers,Credit Card,4/21/2022,Texas,Houston,2022-04
+B-26679,8102,1800,5,Markers,UPI,9/14/2023,California,San Francisco,2023-09
+B-26679,8102,1800,5,Markers,UPI,4/29/2020,New York,Buffalo,2020-04
+B-26679,8102,1800,5,Markers,UPI,12/15/2020,Ohio,Cleveland,2020-12
+B-26679,3234,1274,10,Tables,EMI,9/14/2023,California,San Francisco,2023-09
+B-26679,3234,1274,10,Tables,EMI,4/29/2020,New York,Buffalo,2020-04
+B-26679,3234,1274,10,Tables,EMI,12/15/2020,Ohio,Cleveland,2020-12
+B-26397,6200,2321,18,Tables,Credit Card,7/11/2024,California,Los Angeles,2024-07
+B-26397,6200,2321,18,Tables,Credit Card,9/21/2024,Florida,Miami,2024-09
+B-25957,4470,413,13,Laptops,UPI,2/2/2025,California,Los Angeles,2025-02
+B-26916,916,362,7,Pens,UPI,10/21/2022,Illinois,Springfield,2022-10
+B-26916,916,362,7,Pens,UPI,10/21/2020,California,San Francisco,2020-10
+B-26916,1165,302,20,Sofas,UPI,10/21/2022,Illinois,Springfield,2022-10
+B-26916,1165,302,20,Sofas,UPI,10/21/2020,California,San Francisco,2020-10
+B-26916,7846,677,12,Chairs,UPI,10/21/2022,Illinois,Springfield,2022-10
+B-26916,7846,677,12,Chairs,UPI,10/21/2020,California,San Francisco,2020-10
+B-25925,3022,384,1,Pens,Credit Card,1/11/2022,Texas,Austin,2022-01
+B-25925,3022,384,1,Pens,Credit Card,2/17/2021,Illinois,Chicago,2021-02
+B-25925,5266,1111,13,Electronic Games,Debit Card,1/11/2022,Texas,Austin,2022-01
+B-25925,5266,1111,13,Electronic Games,Debit Card,2/17/2021,Illinois,Chicago,2021-02
+B-25602,4853,1764,9,Pens,Debit Card,11/6/2021,Florida,Orlando,2021-11
+B-25602,4853,1764,9,Pens,Debit Card,8/30/2022,Texas,Houston,2022-08
+B-26592,9832,1270,1,Pens,COD,10/7/2022,California,San Francisco,2022-10
+B-26592,796,153,15,Pens,Credit Card,10/7/2022,California,San Francisco,2022-10
+B-26251,883,127,7,Chairs,COD,6/4/2023,California,San Francisco,2023-06
+B-26251,4539,1155,8,Bookcases,Debit Card,6/4/2023,California,San Francisco,2023-06
+B-26251,9659,2226,16,Binders,Debit Card,6/4/2023,California,San Francisco,2023-06
+B-25979,9562,325,2,Printers,Debit Card,5/13/2022,California,San Diego,2022-05
+B-25437,4688,1841,3,Laptops,Credit Card,1/23/2023,California,San Francisco,2023-01
+B-25437,4688,1841,3,Laptops,Credit Card,7/25/2021,California,San Diego,2021-07
+B-26986,7900,482,4,Phones,COD,3/8/2025,Ohio,Columbus,2025-03
+B-25990,6967,3257,17,Bookcases,COD,12/25/2022,Ohio,Cincinnati,2022-12
+B-25990,1091,277,6,Paper,COD,12/25/2022,Ohio,Cincinnati,2022-12
+B-25990,6027,1530,2,Binders,Credit Card,12/25/2022,Ohio,Cincinnati,2022-12
+B-25222,4852,218,2,Tables,EMI,4/24/2024,Texas,Dallas,2024-04
+B-25222,4852,218,2,Tables,EMI,12/24/2021,Florida,Tampa,2021-12
+B-25222,4852,218,2,Tables,EMI,9/7/2023,Illinois,Springfield,2023-09
+B-26402,4314,1453,6,Sofas,COD,8/10/2021,Florida,Tampa,2021-08
+B-26792,3288,1477,3,Pens,EMI,5/26/2024,Texas,Austin,2024-05
+B-26792,3288,1477,3,Pens,EMI,2/19/2022,Illinois,Springfield,2022-02
+B-25154,3977,813,5,Binders,Credit Card,12/9/2024,New York,New York City,2024-12
+B-26114,6252,1377,2,Printers,EMI,6/1/2023,Illinois,Chicago,2023-06
+B-26485,9084,3253,12,Pens,Debit Card,11/5/2023,New York,Buffalo,2023-11
+B-26191,8994,1481,15,Phones,Credit Card,6/21/2020,California,San Diego,2020-06
+B-26754,1089,176,16,Markers,EMI,10/26/2020,Texas,Dallas,2020-10
+B-25953,6690,1001,19,Binders,UPI,6/6/2022,Illinois,Springfield,2022-06
+B-25953,6690,1001,19,Binders,UPI,11/13/2021,Illinois,Chicago,2021-11
+B-25953,4985,1920,10,Bookcases,Credit Card,6/6/2022,Illinois,Springfield,2022-06
+B-25953,4985,1920,10,Bookcases,Credit Card,11/13/2021,Illinois,Chicago,2021-11
+B-26516,8590,3565,15,Electronic Games,EMI,11/11/2021,Florida,Miami,2021-11
+B-26516,6973,3038,10,Tables,COD,11/11/2021,Florida,Miami,2021-11
+B-26843,4591,1941,19,Printers,EMI,7/31/2021,Texas,Dallas,2021-07
+B-26843,9612,2572,17,Pens,Credit Card,7/31/2021,Texas,Dallas,2021-07
+B-26167,5343,655,1,Chairs,EMI,4/13/2024,California,San Diego,2024-04
+B-26972,6956,318,20,Markers,Debit Card,4/19/2022,Illinois,Springfield,2022-04
+B-25673,5306,2405,17,Tables,EMI,3/23/2024,New York,Buffalo,2024-03
+B-26587,8982,448,17,Sofas,UPI,5/7/2021,New York,New York City,2021-05
+B-26587,4826,562,5,Paper,Debit Card,5/7/2021,New York,New York City,2021-05
+B-26668,972,106,15,Pens,EMI,5/6/2022,Ohio,Cincinnati,2022-05
+B-26906,3665,802,4,Markers,Credit Card,8/9/2021,Florida,Miami,2021-08
+B-26906,3665,802,4,Markers,Credit Card,2/9/2025,Florida,Tampa,2025-02
+B-25226,9808,2117,2,Pens,UPI,4/23/2024,California,Los Angeles,2024-04
+B-25166,1133,73,17,Chairs,UPI,2/23/2023,Ohio,Cleveland,2023-02
+B-25166,1133,73,17,Chairs,UPI,6/6/2024,California,San Diego,2024-06
+B-25166,6248,1168,19,Bookcases,COD,2/23/2023,Ohio,Cleveland,2023-02
+B-25166,6248,1168,19,Bookcases,COD,6/6/2024,California,San Diego,2024-06
+B-25454,5666,2733,17,Electronic Games,Credit Card,1/27/2025,Florida,Tampa,2025-01
+B-26215,4171,1450,18,Markers,COD,4/7/2023,Texas,Dallas,2023-04
+B-25777,6236,2839,7,Printers,Credit Card,1/20/2022,Illinois,Springfield,2022-01
+B-25777,6236,2839,7,Printers,Credit Card,5/10/2022,Florida,Orlando,2022-05
+B-25383,5410,2456,8,Chairs,Credit Card,5/29/2024,California,Los Angeles,2024-05
+B-25383,5410,2456,8,Chairs,Credit Card,1/4/2022,Florida,Tampa,2022-01
+B-26409,3024,1353,1,Sofas,Credit Card,5/2/2024,California,Los Angeles,2024-05
+B-26409,3024,1353,1,Sofas,Credit Card,12/28/2021,Ohio,Columbus,2021-12
+B-26684,7434,2851,5,Markers,UPI,12/12/2022,Illinois,Springfield,2022-12
+B-26726,7213,508,19,Electronic Games,Debit Card,8/17/2023,Texas,Dallas,2023-08
+B-26726,7213,508,19,Electronic Games,Debit Card,11/29/2021,Ohio,Cincinnati,2021-11
+B-26726,3176,586,9,Tables,EMI,8/17/2023,Texas,Dallas,2023-08
+B-26726,3176,586,9,Tables,EMI,11/29/2021,Ohio,Cincinnati,2021-11
+B-26136,9144,2220,18,Binders,Credit Card,6/13/2021,Florida,Miami,2021-06
+B-26098,4146,865,19,Tables,EMI,7/4/2022,Texas,Houston,2022-07
+B-26098,3793,875,7,Tables,EMI,7/4/2022,Texas,Houston,2022-07
+B-25430,7169,2385,11,Sofas,COD,6/27/2021,California,Los Angeles,2021-06
+B-25430,4046,417,18,Chairs,Credit Card,6/27/2021,California,Los Angeles,2021-06
+B-25266,4164,905,11,Phones,COD,12/4/2023,California,San Diego,2023-12
+B-25266,5389,2196,5,Tables,UPI,12/4/2023,California,San Diego,2023-12
+B-25283,5448,2204,5,Sofas,COD,8/9/2022,New York,New York City,2022-08
+B-25227,4115,1285,1,Sofas,UPI,4/8/2020,Florida,Orlando,2020-04
+B-25227,4761,2231,12,Tables,UPI,4/8/2020,Florida,Orlando,2020-04
+B-25669,5899,2264,6,Binders,EMI,10/20/2023,New York,Buffalo,2023-10
+B-25064,6109,3040,9,Chairs,EMI,2/10/2022,New York,Buffalo,2022-02
+B-25064,6109,3040,9,Chairs,EMI,10/5/2023,New York,Rochester,2023-10
+B-25064,4628,1491,17,Electronic Games,UPI,2/10/2022,New York,Buffalo,2022-02
+B-25064,4628,1491,17,Electronic Games,UPI,10/5/2023,New York,Rochester,2023-10
+B-26268,4369,584,13,Pens,Credit Card,9/22/2022,Illinois,Peoria,2022-09
+B-26268,4369,584,13,Pens,Credit Card,4/3/2021,Texas,Austin,2021-04
+B-25456,5632,2358,20,Sofas,Credit Card,5/3/2021,California,Los Angeles,2021-05
+B-25456,5632,2358,20,Sofas,Credit Card,2/11/2024,Florida,Miami,2024-02
+B-25456,5632,2358,20,Sofas,Credit Card,2/4/2025,Ohio,Cleveland,2025-02
+B-25495,7519,402,14,Paper,UPI,10/12/2022,California,San Diego,2022-10
+B-25495,1564,674,13,Electronic Games,Debit Card,10/12/2022,California,San Diego,2022-10
+B-26552,2804,936,10,Electronic Games,Credit Card,2/6/2022,Texas,Austin,2022-02
+B-26552,2804,936,10,Electronic Games,Credit Card,11/9/2020,Florida,Tampa,2020-11
+B-26552,2804,936,10,Electronic Games,Credit Card,5/3/2023,Florida,Tampa,2023-05
+B-25203,2321,505,6,Chairs,EMI,10/4/2022,Illinois,Springfield,2022-10
+B-25462,5730,482,6,Laptops,COD,8/21/2024,Florida,Tampa,2024-08
+B-26145,7441,867,12,Sofas,COD,11/20/2021,Illinois,Chicago,2021-11
+B-26145,7441,867,12,Sofas,COD,5/13/2020,Texas,Austin,2020-05
+B-25552,1732,766,7,Binders,UPI,2/28/2023,New York,New York City,2023-02
+B-25552,8788,3944,19,Paper,EMI,2/28/2023,New York,New York City,2023-02
+B-26069,838,271,11,Markers,EMI,1/21/2021,Ohio,Columbus,2021-01
+B-26069,838,271,11,Markers,EMI,2/28/2022,Illinois,Peoria,2022-02
+B-26069,3577,699,2,Tables,UPI,1/21/2021,Ohio,Columbus,2021-01
+B-26069,3577,699,2,Tables,UPI,2/28/2022,Illinois,Peoria,2022-02
+B-25120,7122,1836,6,Phones,Debit Card,4/25/2024,Texas,Dallas,2024-04
+B-25120,7122,1836,6,Phones,Debit Card,3/10/2023,Texas,Houston,2023-03
+B-25120,7122,1836,6,Phones,Debit Card,7/10/2023,New York,New York City,2023-07
+B-25120,7327,2596,15,Markers,Credit Card,4/25/2024,Texas,Dallas,2024-04
+B-25120,7327,2596,15,Markers,Credit Card,3/10/2023,Texas,Houston,2023-03
+B-25120,7327,2596,15,Markers,Credit Card,7/10/2023,New York,New York City,2023-07
+B-26146,2239,1094,18,Printers,COD,7/28/2024,Florida,Tampa,2024-07
+B-26146,4932,1153,1,Markers,COD,7/28/2024,Florida,Tampa,2024-07
+B-25549,4609,1084,8,Printers,UPI,7/30/2023,Florida,Orlando,2023-07
+B-25549,2328,788,4,Paper,UPI,7/30/2023,Florida,Orlando,2023-07
+B-25549,4734,958,7,Printers,Debit Card,7/30/2023,Florida,Orlando,2023-07
+B-25488,1388,345,5,Sofas,UPI,10/5/2024,New York,New York City,2024-10
+B-25488,8555,1638,8,Laptops,Credit Card,10/5/2024,New York,New York City,2024-10
+B-26885,9024,730,4,Tables,Credit Card,2/20/2024,Texas,Dallas,2024-02
+B-26885,2468,418,4,Laptops,Credit Card,2/20/2024,Texas,Dallas,2024-02
+B-25703,9438,1801,4,Electronic Games,COD,4/19/2023,Florida,Orlando,2023-04
+B-25703,9438,1801,4,Electronic Games,COD,10/29/2023,Texas,Austin,2023-10
+B-25809,2685,379,18,Phones,UPI,3/8/2022,Ohio,Cleveland,2022-03
+B-25809,2685,379,18,Phones,UPI,12/8/2022,Florida,Tampa,2022-12
+B-25809,9916,4602,14,Chairs,UPI,3/8/2022,Ohio,Cleveland,2022-03
+B-25809,9916,4602,14,Chairs,UPI,12/8/2022,Florida,Tampa,2022-12
+B-25809,6184,50,14,Electronic Games,Credit Card,3/8/2022,Ohio,Cleveland,2022-03
+B-25809,6184,50,14,Electronic Games,Credit Card,12/8/2022,Florida,Tampa,2022-12
+B-25809,4548,2135,8,Markers,Debit Card,3/8/2022,Ohio,Cleveland,2022-03
+B-25809,4548,2135,8,Markers,Debit Card,12/8/2022,Florida,Tampa,2022-12
+B-25477,7195,1665,7,Markers,COD,7/27/2024,New York,Rochester,2024-07
+B-25477,7195,1665,7,Markers,COD,7/5/2022,New York,Buffalo,2022-07
+B-26018,3098,957,18,Bookcases,COD,7/4/2024,Texas,Austin,2024-07
+B-25329,5412,1192,18,Tables,Credit Card,2/28/2024,California,San Diego,2024-02
+B-25329,5412,1192,18,Tables,Credit Card,1/3/2025,California,Los Angeles,2025-01
+B-25182,1397,686,11,Chairs,Credit Card,12/7/2021,New York,New York City,2021-12
+B-25492,9279,552,14,Chairs,EMI,12/14/2021,New York,Buffalo,2021-12
+B-25492,9279,552,14,Chairs,EMI,11/30/2020,California,San Francisco,2020-11
+B-25492,2596,1003,19,Paper,Credit Card,12/14/2021,New York,Buffalo,2021-12
+B-25492,2596,1003,19,Paper,Credit Card,11/30/2020,California,San Francisco,2020-11
+B-25517,6732,911,19,Bookcases,EMI,12/29/2021,New York,Buffalo,2021-12
+B-25517,4495,1408,14,Pens,EMI,12/29/2021,New York,Buffalo,2021-12
+B-25200,9653,2471,6,Paper,UPI,7/8/2024,New York,Buffalo,2024-07
+B-26009,8945,1728,10,Tables,UPI,2/10/2021,Illinois,Peoria,2021-02
+B-26580,4007,201,13,Bookcases,COD,10/21/2020,Ohio,Columbus,2020-10
+B-26580,4007,201,13,Bookcases,COD,4/17/2023,Texas,Dallas,2023-04
+B-25679,810,231,18,Bookcases,EMI,10/21/2020,Florida,Tampa,2020-10
+B-26034,9789,2071,18,Bookcases,Debit Card,12/28/2023,New York,Rochester,2023-12
+B-26034,9229,4090,8,Electronic Games,COD,12/28/2023,New York,Rochester,2023-12
+B-25148,8141,3968,18,Markers,Debit Card,12/23/2022,New York,Rochester,2022-12
+B-25148,8141,3968,18,Markers,Debit Card,8/10/2022,Illinois,Peoria,2022-08
+B-25148,1067,251,14,Sofas,EMI,12/23/2022,New York,Rochester,2022-12
+B-25148,1067,251,14,Sofas,EMI,8/10/2022,Illinois,Peoria,2022-08
+B-25830,3839,1415,10,Binders,UPI,10/17/2023,California,Los Angeles,2023-10
+B-25830,3839,1415,10,Binders,UPI,2/28/2022,Florida,Orlando,2022-02
+B-25762,2858,482,13,Electronic Games,COD,5/24/2024,Texas,Austin,2024-05
+B-26794,2137,638,12,Bookcases,Debit Card,10/2/2020,New York,New York City,2020-10
+B-26794,2831,1289,12,Chairs,Debit Card,10/2/2020,New York,New York City,2020-10
+B-25011,3913,961,15,Sofas,UPI,2/10/2024,Ohio,Columbus,2024-02
+B-25011,3913,961,15,Sofas,UPI,2/6/2021,California,San Francisco,2021-02
+B-25515,4468,1940,9,Paper,COD,3/16/2022,Florida,Tampa,2022-03
+B-25369,1579,602,9,Laptops,Credit Card,5/24/2020,Ohio,Cincinnati,2020-05
+B-25369,1579,602,9,Laptops,Credit Card,2/16/2025,Texas,Dallas,2025-02
+B-25369,1579,602,9,Laptops,Credit Card,11/16/2021,Ohio,Cincinnati,2021-11
+B-25369,1579,602,9,Laptops,Credit Card,9/8/2024,New York,Rochester,2024-09
+B-25369,3760,1849,19,Chairs,EMI,5/24/2020,Ohio,Cincinnati,2020-05
+B-25369,3760,1849,19,Chairs,EMI,2/16/2025,Texas,Dallas,2025-02
+B-25369,3760,1849,19,Chairs,EMI,11/16/2021,Ohio,Cincinnati,2021-11
+B-25369,3760,1849,19,Chairs,EMI,9/8/2024,New York,Rochester,2024-09
+B-26222,8706,3099,14,Pens,Credit Card,6/29/2022,Illinois,Chicago,2022-06
+B-26222,4708,696,14,Electronic Games,Credit Card,6/29/2022,Illinois,Chicago,2022-06
+B-26222,8089,3132,17,Chairs,COD,6/29/2022,Illinois,Chicago,2022-06
+B-25316,5462,673,12,Printers,Debit Card,11/3/2022,Texas,Austin,2022-11
+B-25507,6392,444,18,Electronic Games,Credit Card,11/28/2023,Florida,Tampa,2023-11
+B-25846,8706,1724,3,Electronic Games,Debit Card,4/25/2020,Florida,Orlando,2020-04
+B-25763,2349,319,4,Pens,UPI,1/18/2022,Florida,Miami,2022-01
+B-25763,8220,3882,14,Chairs,UPI,1/18/2022,Florida,Miami,2022-01
+B-25763,2379,279,7,Chairs,Debit Card,1/18/2022,Florida,Miami,2022-01
+B-25763,7377,2049,4,Markers,UPI,1/18/2022,Florida,Miami,2022-01
+B-25465,717,158,16,Tables,Credit Card,3/23/2022,Ohio,Cleveland,2022-03
+B-25465,717,158,16,Tables,Credit Card,6/24/2020,Florida,Miami,2020-06
+B-25465,717,158,16,Tables,Credit Card,12/23/2022,New York,Buffalo,2022-12
+B-25465,717,158,16,Tables,Credit Card,11/24/2024,New York,New York City,2024-11
+B-25465,717,158,16,Tables,Credit Card,11/6/2020,Florida,Orlando,2020-11
+B-25465,717,158,16,Tables,Credit Card,10/24/2023,New York,Rochester,2023-10
+B-25465,508,177,17,Sofas,UPI,3/23/2022,Ohio,Cleveland,2022-03
+B-25465,508,177,17,Sofas,UPI,6/24/2020,Florida,Miami,2020-06
+B-25465,508,177,17,Sofas,UPI,12/23/2022,New York,Buffalo,2022-12
+B-25465,508,177,17,Sofas,UPI,11/24/2024,New York,New York City,2024-11
+B-25465,508,177,17,Sofas,UPI,11/6/2020,Florida,Orlando,2020-11
+B-25465,508,177,17,Sofas,UPI,10/24/2023,New York,Rochester,2023-10
+B-26352,9382,1085,3,Printers,Debit Card,7/18/2023,Illinois,Chicago,2023-07
+B-26352,9382,1085,3,Printers,Debit Card,5/16/2022,New York,Rochester,2022-05
+B-26352,4936,576,19,Tables,COD,7/18/2023,Illinois,Chicago,2023-07
+B-26352,4936,576,19,Tables,COD,5/16/2022,New York,Rochester,2022-05
+B-26528,2663,64,19,Sofas,COD,6/16/2024,California,San Francisco,2024-06
+B-26528,2663,64,19,Sofas,COD,10/23/2021,Ohio,Cleveland,2021-10
+B-26670,5151,1680,5,Printers,EMI,10/22/2022,Texas,Houston,2022-10
+B-25331,2514,95,8,Pens,UPI,7/17/2023,New York,Rochester,2023-07
+B-25832,6129,2976,2,Laptops,EMI,2/24/2025,New York,New York City,2025-02
+B-25832,4395,1663,3,Bookcases,COD,2/24/2025,New York,New York City,2025-02
+B-25897,5393,2642,8,Chairs,UPI,3/7/2021,Ohio,Cincinnati,2021-03
+B-25713,2280,509,8,Phones,Credit Card,1/3/2021,New York,Buffalo,2021-01
+B-25065,6596,1439,9,Paper,Debit Card,5/3/2023,Ohio,Cincinnati,2023-05
+B-25949,4510,1896,5,Paper,EMI,10/25/2023,California,Los Angeles,2023-10
+B-26033,6077,2378,18,Phones,COD,8/21/2022,New York,New York City,2022-08
+B-26017,5379,2510,17,Printers,COD,4/16/2022,Ohio,Columbus,2022-04
+B-26926,4629,1660,16,Markers,EMI,4/2/2023,California,San Diego,2023-04
+B-26258,2710,555,20,Laptops,Debit Card,10/21/2024,Illinois,Chicago,2024-10
+B-26258,3224,1018,14,Binders,UPI,10/21/2024,Illinois,Chicago,2024-10
+B-26240,8042,936,15,Markers,EMI,7/9/2021,Illinois,Springfield,2021-07
+B-26240,8042,936,15,Markers,EMI,4/8/2022,California,Los Angeles,2022-04
+B-26922,3957,151,10,Binders,EMI,4/30/2022,Texas,Austin,2022-04
+B-26894,8769,3178,16,Markers,Debit Card,1/20/2023,Illinois,Chicago,2023-01
+B-25330,2957,917,16,Pens,Debit Card,11/17/2024,Illinois,Chicago,2024-11
+B-26288,5344,2607,6,Paper,Debit Card,4/23/2022,Texas,Dallas,2022-04
+B-26288,5344,2607,6,Paper,Debit Card,2/18/2025,New York,Rochester,2025-02
+B-25228,6061,2121,19,Laptops,EMI,5/27/2021,Ohio,Cleveland,2021-05
+B-25228,6061,2121,19,Laptops,EMI,1/17/2022,California,San Diego,2022-01
+B-26457,5376,1928,7,Tables,Credit Card,1/15/2025,New York,New York City,2025-01
+B-25790,2792,1008,8,Printers,COD,2/14/2021,Florida,Miami,2021-02
+B-25868,2944,249,5,Binders,Credit Card,8/31/2024,Ohio,Columbus,2024-08
+B-25868,2944,249,5,Binders,Credit Card,12/26/2022,Texas,Dallas,2022-12
+B-25381,4220,945,13,Markers,EMI,3/21/2024,Illinois,Springfield,2024-03
+B-25381,4220,945,13,Markers,EMI,12/15/2020,Illinois,Peoria,2020-12
+B-25153,8526,1704,4,Binders,Debit Card,3/21/2023,Texas,Austin,2023-03
+B-26576,8218,1430,19,Bookcases,Credit Card,6/8/2023,California,San Francisco,2023-06
+B-26526,599,265,4,Phones,Credit Card,7/17/2022,New York,Buffalo,2022-07
+B-26526,599,265,4,Phones,Credit Card,12/5/2024,New York,Rochester,2024-12
+B-26526,2727,543,10,Bookcases,Credit Card,7/17/2022,New York,Buffalo,2022-07
+B-26526,2727,543,10,Bookcases,Credit Card,12/5/2024,New York,Rochester,2024-12
+B-25819,2589,605,11,Pens,EMI,11/2/2023,California,San Francisco,2023-11
+B-25819,2589,605,11,Pens,EMI,10/5/2024,Ohio,Cleveland,2024-10
+B-25698,3776,1100,9,Electronic Games,EMI,11/13/2022,Texas,Austin,2022-11
+B-25698,3776,1100,9,Electronic Games,EMI,12/28/2022,Illinois,Peoria,2022-12
+B-26820,5402,1666,12,Bookcases,EMI,2/26/2025,Ohio,Cleveland,2025-02
+B-25396,5165,885,16,Pens,EMI,11/12/2022,Illinois,Peoria,2022-11
+B-25396,4863,2394,4,Bookcases,EMI,11/12/2022,Illinois,Peoria,2022-11
+B-25529,1626,258,15,Pens,EMI,6/7/2021,Florida,Orlando,2021-06
+B-26501,8851,3962,7,Tables,EMI,9/26/2020,Florida,Miami,2020-09
+B-26910,9680,3295,9,Tables,COD,4/29/2024,New York,Rochester,2024-04
+B-26910,8468,3666,8,Pens,UPI,4/29/2024,New York,Rochester,2024-04
+B-26910,4441,314,14,Chairs,Debit Card,4/29/2024,New York,Rochester,2024-04
+B-25978,6622,2673,8,Sofas,COD,4/10/2024,New York,New York City,2024-04
+B-26537,3260,207,17,Tables,UPI,12/21/2023,California,San Diego,2023-12
+B-25881,8709,2322,8,Tables,Debit Card,5/2/2024,Texas,Austin,2024-05
+B-25881,8709,2322,8,Tables,Debit Card,11/21/2024,California,San Francisco,2024-11
+B-25237,5250,187,1,Binders,COD,3/17/2022,Ohio,Cincinnati,2022-03
+B-25237,5250,187,1,Binders,COD,5/14/2023,Texas,Houston,2023-05
+B-26122,4116,921,20,Paper,UPI,10/7/2024,California,Los Angeles,2024-10
+B-26122,4116,921,20,Paper,UPI,9/8/2020,Illinois,Springfield,2020-09
+B-25709,1109,418,15,Paper,UPI,8/19/2021,California,Los Angeles,2021-08
+B-26656,3573,562,7,Pens,EMI,10/12/2022,New York,Rochester,2022-10
+B-26656,3573,562,7,Pens,EMI,5/23/2020,California,San Diego,2020-05
+B-26656,3573,562,7,Pens,EMI,4/18/2020,Florida,Tampa,2020-04
+B-26656,8055,661,10,Phones,EMI,10/12/2022,New York,Rochester,2022-10
+B-26656,8055,661,10,Phones,EMI,5/23/2020,California,San Diego,2020-05
+B-26656,8055,661,10,Phones,EMI,4/18/2020,Florida,Tampa,2020-04
+B-25801,6829,2609,2,Laptops,EMI,6/4/2022,California,San Francisco,2022-06
+B-25801,6390,3089,12,Paper,COD,6/4/2022,California,San Francisco,2022-06
+B-25006,5831,1574,17,Pens,Debit Card,11/16/2022,California,San Francisco,2022-11
+B-25006,5831,1574,17,Pens,Debit Card,7/18/2024,California,San Diego,2024-07
+B-25006,5831,1574,17,Pens,Debit Card,7/16/2023,Florida,Miami,2023-07
+B-26106,7952,3865,8,Sofas,Debit Card,8/10/2020,Illinois,Peoria,2020-08
+B-25789,3659,379,5,Bookcases,UPI,6/22/2024,California,Los Angeles,2024-06
+B-26292,4183,1159,4,Pens,Debit Card,7/13/2020,Illinois,Springfield,2020-07
+B-25895,7478,1381,11,Phones,EMI,4/16/2024,Texas,Houston,2024-04
+B-25813,702,238,9,Phones,COD,3/13/2021,Florida,Tampa,2021-03
+B-26863,4037,1494,15,Chairs,EMI,4/1/2023,California,San Francisco,2023-04
+B-25759,5014,2332,2,Chairs,COD,11/10/2020,Illinois,Chicago,2020-11
+B-26357,9879,4930,15,Laptops,Debit Card,6/8/2023,New York,Rochester,2023-06
+B-26819,8762,3502,1,Phones,Debit Card,8/17/2021,Florida,Tampa,2021-08
+B-25502,8490,800,1,Pens,EMI,5/24/2020,New York,New York City,2020-05
+B-25258,6951,164,10,Sofas,UPI,8/12/2021,New York,Buffalo,2021-08
+B-26878,1078,309,3,Phones,Credit Card,9/3/2022,Ohio,Cleveland,2022-09
+B-26878,1078,309,3,Phones,Credit Card,10/1/2020,Illinois,Chicago,2020-10
+B-25170,8560,2166,19,Binders,EMI,5/27/2022,Florida,Tampa,2022-05
+B-25170,1031,318,20,Electronic Games,UPI,5/27/2022,Florida,Tampa,2022-05
+B-26842,6402,2770,19,Markers,Debit Card,3/10/2024,Florida,Orlando,2024-03
+B-26842,6402,2770,19,Markers,Debit Card,10/5/2023,Florida,Orlando,2023-10
+B-26842,5916,1594,19,Printers,Debit Card,3/10/2024,Florida,Orlando,2024-03
+B-26842,5916,1594,19,Printers,Debit Card,10/5/2023,Florida,Orlando,2023-10
+B-26599,4015,1751,15,Chairs,Debit Card,8/28/2022,California,San Francisco,2022-08
+B-26599,4015,1751,15,Chairs,Debit Card,9/8/2020,New York,New York City,2020-09
+B-25705,9335,557,11,Electronic Games,COD,4/27/2021,California,Los Angeles,2021-04
+B-26366,4706,594,11,Binders,COD,8/21/2021,Ohio,Cleveland,2021-08
+B-26366,4706,594,11,Binders,COD,5/16/2021,Ohio,Columbus,2021-05
+B-26366,6584,371,6,Markers,UPI,8/21/2021,Ohio,Cleveland,2021-08
+B-26366,6584,371,6,Markers,UPI,5/16/2021,Ohio,Columbus,2021-05
+B-26116,6389,734,1,Sofas,EMI,1/15/2022,Texas,Dallas,2022-01
+B-26443,9869,4299,12,Printers,Debit Card,3/21/2023,California,San Diego,2023-03
+B-26443,9869,4299,12,Printers,Debit Card,12/28/2023,New York,Buffalo,2023-12
+B-25955,655,297,4,Markers,Debit Card,2/15/2022,New York,Buffalo,2022-02
+B-25955,655,297,4,Markers,Debit Card,11/30/2023,Florida,Orlando,2023-11
+B-26383,798,308,10,Phones,Debit Card,1/12/2023,New York,Buffalo,2023-01
+B-26383,798,308,10,Phones,Debit Card,5/19/2023,Ohio,Cleveland,2023-05
+B-26383,7967,2504,13,Printers,EMI,1/12/2023,New York,Buffalo,2023-01
+B-26383,7967,2504,13,Printers,EMI,5/19/2023,Ohio,Cleveland,2023-05
+B-26999,3756,1318,5,Tables,UPI,2/19/2024,Florida,Miami,2024-02
+B-26712,5196,2477,1,Markers,UPI,12/1/2021,Texas,Austin,2021-12
+B-26712,6586,1794,19,Bookcases,Debit Card,12/1/2021,Texas,Austin,2021-12
+B-26066,6673,950,19,Markers,EMI,12/19/2024,New York,Buffalo,2024-12
+B-25996,714,232,14,Tables,UPI,1/18/2023,Ohio,Columbus,2023-01
+B-25996,714,232,14,Tables,UPI,12/23/2020,Texas,Austin,2020-12
+B-26924,1083,501,6,Pens,COD,2/28/2021,Texas,Austin,2021-02
+B-25541,2401,1163,10,Bookcases,UPI,5/4/2023,Ohio,Cleveland,2023-05
+B-25541,2401,1163,10,Bookcases,UPI,4/22/2020,California,Los Angeles,2020-04
+B-25541,2401,1163,10,Bookcases,UPI,8/13/2021,New York,Rochester,2021-08
+B-25541,1045,267,11,Phones,Debit Card,5/4/2023,Ohio,Cleveland,2023-05
+B-25541,1045,267,11,Phones,Debit Card,4/22/2020,California,Los Angeles,2020-04
+B-25541,1045,267,11,Phones,Debit Card,8/13/2021,New York,Rochester,2021-08
+B-25196,7806,1127,1,Markers,Credit Card,7/20/2023,Texas,Dallas,2023-07
+B-25855,5263,1743,19,Sofas,Credit Card,8/28/2022,Florida,Miami,2022-08
+B-25071,6147,2526,6,Pens,Debit Card,3/14/2023,Texas,Dallas,2023-03
+B-26159,7484,2871,15,Phones,UPI,11/7/2023,Florida,Orlando,2023-11
+B-26159,7484,2871,15,Phones,UPI,4/16/2024,Illinois,Chicago,2024-04
+B-26159,7700,2712,1,Sofas,Credit Card,11/7/2023,Florida,Orlando,2023-11
+B-26159,7700,2712,1,Sofas,Credit Card,4/16/2024,Illinois,Chicago,2024-04
+B-26228,8537,3586,13,Markers,UPI,9/16/2022,New York,Rochester,2022-09
+B-25888,8858,3394,6,Chairs,COD,10/31/2024,California,San Diego,2024-10
+B-25574,5313,2037,7,Printers,Debit Card,11/25/2024,California,San Francisco,2024-11
+B-25574,5313,2037,7,Printers,Debit Card,10/29/2021,Texas,Houston,2021-10
+B-26938,3281,471,7,Sofas,EMI,12/27/2023,California,Los Angeles,2023-12
+B-26938,3281,471,7,Sofas,EMI,6/25/2023,Illinois,Peoria,2023-06
+B-26379,8681,2458,9,Pens,Credit Card,9/1/2020,New York,New York City,2020-09
+B-26623,6195,1556,18,Sofas,EMI,2/1/2025,Illinois,Springfield,2025-02
+B-25566,3877,481,16,Chairs,Debit Card,7/22/2023,New York,Rochester,2023-07
+B-25566,3877,481,16,Chairs,Debit Card,2/4/2022,New York,New York City,2022-02
+B-26740,9369,3297,6,Printers,Debit Card,9/27/2023,Florida,Orlando,2023-09
+B-26740,9369,3297,6,Printers,Debit Card,1/30/2025,New York,New York City,2025-01
+B-26740,8680,4068,20,Printers,Credit Card,9/27/2023,Florida,Orlando,2023-09
+B-26740,8680,4068,20,Printers,Credit Card,1/30/2025,New York,New York City,2025-01
+B-26740,3067,1475,8,Laptops,UPI,9/27/2023,Florida,Orlando,2023-09
+B-26740,3067,1475,8,Laptops,UPI,1/30/2025,New York,New York City,2025-01
+B-25024,9002,4197,2,Markers,EMI,1/15/2025,Ohio,Cincinnati,2025-01
+B-25024,9002,4197,2,Markers,EMI,3/28/2021,Ohio,Columbus,2021-03
+B-26367,7105,2782,19,Pens,COD,12/25/2021,Ohio,Columbus,2021-12
+B-26353,5317,1345,18,Chairs,Debit Card,2/3/2023,Ohio,Columbus,2023-02
+B-26353,5317,1345,18,Chairs,Debit Card,4/28/2023,Florida,Orlando,2023-04
+B-26353,5317,1345,18,Chairs,Debit Card,11/22/2024,California,San Francisco,2024-11
+B-26353,6304,766,14,Tables,EMI,2/3/2023,Ohio,Columbus,2023-02
+B-26353,6304,766,14,Tables,EMI,4/28/2023,Florida,Orlando,2023-04
+B-26353,6304,766,14,Tables,EMI,11/22/2024,California,San Francisco,2024-11
+B-25742,9565,1691,3,Paper,Debit Card,7/2/2024,Illinois,Springfield,2024-07
+B-25742,8245,324,11,Paper,EMI,7/2/2024,Illinois,Springfield,2024-07
+B-26965,1592,480,13,Laptops,Debit Card,1/18/2022,Ohio,Cleveland,2022-01
+B-26038,8400,267,5,Phones,Debit Card,10/8/2024,Ohio,Columbus,2024-10
+B-26038,4963,1254,15,Paper,EMI,10/8/2024,Ohio,Columbus,2024-10
+B-25317,2472,211,5,Printers,COD,6/21/2020,California,San Diego,2020-06
+B-25970,9132,3096,14,Chairs,Debit Card,12/14/2023,Florida,Tampa,2023-12
+B-25590,8305,1577,6,Binders,Debit Card,12/16/2020,New York,Rochester,2020-12
+B-25580,1010,58,19,Electronic Games,COD,3/15/2025,Florida,Tampa,2025-03
+B-25443,4544,1726,9,Phones,EMI,8/21/2024,Texas,Dallas,2024-08
+B-25443,5900,1738,20,Phones,UPI,8/21/2024,Texas,Dallas,2024-08
+B-25774,8861,3381,19,Markers,Credit Card,5/27/2021,California,San Diego,2021-05
+B-26505,8158,2052,13,Phones,Debit Card,9/21/2020,Ohio,Cincinnati,2020-09
+B-25163,3411,1704,14,Pens,UPI,1/11/2025,California,Los Angeles,2025-01
+B-26095,9406,1137,16,Markers,UPI,10/20/2021,Texas,Houston,2021-10
+B-26095,1156,74,15,Printers,EMI,10/20/2021,Texas,Houston,2021-10
+B-25768,5354,743,10,Bookcases,UPI,10/19/2021,Illinois,Springfield,2021-10
+B-25328,8780,3430,4,Electronic Games,Credit Card,7/7/2024,Texas,Austin,2024-07
+B-25328,8780,3430,4,Electronic Games,Credit Card,7/25/2023,Texas,Austin,2023-07
+B-26573,6783,3306,8,Sofas,Debit Card,4/16/2020,Ohio,Columbus,2020-04
+B-25138,1778,285,4,Pens,Credit Card,7/4/2020,New York,New York City,2020-07
+B-26803,9399,1949,12,Printers,UPI,5/16/2022,New York,Rochester,2022-05
+B-26803,7957,965,4,Sofas,Credit Card,5/16/2022,New York,Rochester,2022-05
+B-25101,1638,661,13,Chairs,EMI,11/25/2023,Illinois,Springfield,2023-11
+B-25827,1786,224,4,Tables,COD,8/17/2021,Texas,Dallas,2021-08
+B-25792,4751,781,9,Paper,EMI,7/2/2023,New York,Buffalo,2023-07
+B-25646,8979,4477,4,Paper,Credit Card,8/24/2020,Illinois,Chicago,2020-08
+B-25043,2727,663,8,Phones,Credit Card,11/7/2022,Florida,Miami,2022-11
+B-26598,1093,397,17,Printers,Credit Card,3/27/2024,Illinois,Peoria,2024-03
+B-26598,1093,397,17,Printers,Credit Card,9/1/2024,New York,Buffalo,2024-09
+B-26598,1093,397,17,Printers,Credit Card,2/22/2022,Ohio,Columbus,2022-02
+B-26598,2636,88,11,Paper,Debit Card,3/27/2024,Illinois,Peoria,2024-03
+B-26598,2636,88,11,Paper,Debit Card,9/1/2024,New York,Buffalo,2024-09
+B-26598,2636,88,11,Paper,Debit Card,2/22/2022,Ohio,Columbus,2022-02
+B-26643,7344,2251,7,Electronic Games,Debit Card,2/11/2022,Florida,Miami,2022-02
+B-26643,7306,1547,3,Paper,COD,2/11/2022,Florida,Miami,2022-02
+B-26643,5832,2588,10,Printers,COD,2/11/2022,Florida,Miami,2022-02
+B-25992,8572,2041,8,Tables,EMI,5/27/2021,Illinois,Springfield,2021-05
+B-25992,8572,2041,8,Tables,EMI,7/5/2023,Illinois,Springfield,2023-07
+B-25992,8572,2041,8,Tables,EMI,10/27/2020,California,San Diego,2020-10
+B-25992,8059,1834,10,Printers,Credit Card,5/27/2021,Illinois,Springfield,2021-05
+B-25992,8059,1834,10,Printers,Credit Card,7/5/2023,Illinois,Springfield,2023-07
+B-25992,8059,1834,10,Printers,Credit Card,10/27/2020,California,San Diego,2020-10
+B-25532,3661,436,13,Sofas,EMI,1/26/2023,Texas,Austin,2023-01
+B-25564,2451,342,8,Paper,EMI,9/6/2021,California,Los Angeles,2021-09
+B-25564,2451,342,8,Paper,EMI,11/12/2021,Ohio,Cincinnati,2021-11
+B-25564,2451,342,8,Paper,EMI,7/30/2024,Texas,Houston,2024-07
+B-26543,7067,1943,16,Tables,Credit Card,3/15/2022,California,San Francisco,2022-03
+B-25976,4307,615,3,Electronic Games,UPI,3/15/2024,New York,New York City,2024-03
+B-25976,4307,615,3,Electronic Games,UPI,11/10/2020,Illinois,Springfield,2020-11
+B-25976,5694,1134,5,Chairs,EMI,3/15/2024,New York,New York City,2024-03
+B-25976,5694,1134,5,Chairs,EMI,11/10/2020,Illinois,Springfield,2020-11
+B-25929,962,298,18,Binders,Credit Card,7/23/2022,Illinois,Springfield,2022-07
+B-25497,2995,220,14,Bookcases,Credit Card,9/13/2024,New York,Buffalo,2024-09
+B-25497,2047,914,5,Markers,Debit Card,9/13/2024,New York,Buffalo,2024-09
+B-26735,2078,612,6,Laptops,COD,1/25/2022,Texas,Austin,2022-01
+B-25036,2737,1253,3,Printers,EMI,4/19/2021,New York,New York City,2021-04
+B-25971,8194,2881,6,Paper,Debit Card,7/18/2021,Texas,Houston,2021-07
+B-25441,9914,3858,16,Sofas,Credit Card,6/24/2022,New York,Buffalo,2022-06
+B-25441,9914,3858,16,Sofas,Credit Card,6/8/2024,New York,Rochester,2024-06
+B-25441,5470,292,7,Pens,Debit Card,6/24/2022,New York,Buffalo,2022-06
+B-25441,5470,292,7,Pens,Debit Card,6/8/2024,New York,Rochester,2024-06
+B-25441,1496,662,17,Bookcases,UPI,6/24/2022,New York,Buffalo,2022-06
+B-25441,1496,662,17,Bookcases,UPI,6/8/2024,New York,Rochester,2024-06
+B-25823,3228,476,9,Paper,COD,9/29/2022,New York,New York City,2022-09
+B-25363,3918,749,8,Laptops,Credit Card,5/10/2023,California,San Diego,2023-05
+B-25363,3918,749,8,Laptops,Credit Card,5/2/2020,Texas,Houston,2020-05
+B-26445,9921,1451,15,Sofas,EMI,4/12/2021,Illinois,Chicago,2021-04
+B-26724,9694,4361,1,Chairs,EMI,11/4/2023,Illinois,Springfield,2023-11
+B-25447,5028,1553,13,Paper,EMI,5/4/2020,Florida,Tampa,2020-05
+B-26904,594,67,19,Paper,Debit Card,9/10/2023,New York,Buffalo,2023-09
+B-26904,594,67,19,Paper,Debit Card,1/5/2024,Florida,Miami,2024-01
+B-26904,594,67,19,Paper,Debit Card,5/8/2024,Texas,Austin,2024-05
+B-26456,5954,2618,11,Tables,COD,3/30/2024,Ohio,Cincinnati,2024-03
+B-25435,3518,1051,3,Bookcases,UPI,9/10/2020,California,San Francisco,2020-09
+B-25435,4157,1874,8,Laptops,EMI,9/10/2020,California,San Francisco,2020-09
+B-26279,3747,410,5,Markers,Credit Card,7/12/2020,Illinois,Springfield,2020-07
+B-26279,3747,410,5,Markers,Credit Card,12/8/2022,New York,Buffalo,2022-12
+B-26279,3747,410,5,Markers,Credit Card,3/27/2024,Ohio,Columbus,2024-03
+B-26279,3747,410,5,Markers,Credit Card,2/17/2023,Illinois,Chicago,2023-02
+B-26279,3747,410,5,Markers,Credit Card,7/21/2021,California,Los Angeles,2021-07
+B-26279,3194,534,4,Binders,UPI,7/12/2020,Illinois,Springfield,2020-07
+B-26279,3194,534,4,Binders,UPI,12/8/2022,New York,Buffalo,2022-12
+B-26279,3194,534,4,Binders,UPI,3/27/2024,Ohio,Columbus,2024-03
+B-26279,3194,534,4,Binders,UPI,2/17/2023,Illinois,Chicago,2023-02
+B-26279,3194,534,4,Binders,UPI,7/21/2021,California,Los Angeles,2021-07
+B-25770,8548,2305,1,Binders,COD,10/30/2022,Florida,Tampa,2022-10
+B-25715,6089,139,19,Tables,Debit Card,12/31/2020,Ohio,Cincinnati,2020-12
+B-25715,6089,139,19,Tables,Debit Card,4/15/2022,Ohio,Cleveland,2022-04
+B-25715,6089,139,19,Tables,Debit Card,4/5/2023,Illinois,Chicago,2023-04
+B-25715,2586,800,16,Tables,UPI,12/31/2020,Ohio,Cincinnati,2020-12
+B-25715,2586,800,16,Tables,UPI,4/15/2022,Ohio,Cleveland,2022-04
+B-25715,2586,800,16,Tables,UPI,4/5/2023,Illinois,Chicago,2023-04
+B-25715,3757,1626,9,Paper,UPI,12/31/2020,Ohio,Cincinnati,2020-12
+B-25715,3757,1626,9,Paper,UPI,4/15/2022,Ohio,Cleveland,2022-04
+B-25715,3757,1626,9,Paper,UPI,4/5/2023,Illinois,Chicago,2023-04
+B-26961,5193,2530,5,Sofas,Debit Card,10/29/2021,California,San Diego,2021-10
+B-26961,5193,2530,5,Sofas,Debit Card,12/29/2024,Florida,Miami,2024-12
+B-25902,7493,96,3,Electronic Games,UPI,8/11/2020,Ohio,Cleveland,2020-08
+B-26321,2062,848,6,Markers,Credit Card,3/4/2024,Florida,Tampa,2024-03
+B-25612,7163,1536,1,Phones,EMI,10/17/2023,California,San Diego,2023-10
+B-25605,4026,163,6,Phones,COD,7/28/2023,New York,New York City,2023-07
+B-25810,1894,275,5,Chairs,Credit Card,11/27/2021,Florida,Miami,2021-11
+B-25810,7144,192,13,Electronic Games,Credit Card,11/27/2021,Florida,Miami,2021-11
+B-25935,3482,1554,15,Laptops,Debit Card,9/9/2020,Ohio,Columbus,2020-09
+B-26245,4172,235,5,Paper,EMI,6/2/2021,Ohio,Cleveland,2021-06
+B-26245,4172,235,5,Paper,EMI,8/22/2022,Florida,Orlando,2022-08
+B-26245,4172,235,5,Paper,EMI,4/16/2024,Illinois,Springfield,2024-04
+B-25346,6265,155,8,Sofas,COD,8/23/2022,Ohio,Cincinnati,2022-08
+B-25346,6265,155,8,Sofas,COD,3/12/2021,Ohio,Cleveland,2021-03
+B-25594,2931,212,7,Electronic Games,Credit Card,6/26/2024,Illinois,Peoria,2024-06
+B-25594,2931,212,7,Electronic Games,Credit Card,12/8/2023,Florida,Tampa,2023-12
+B-25471,1146,188,9,Chairs,Debit Card,11/27/2024,Florida,Tampa,2024-11
+B-25398,9215,767,13,Printers,COD,1/10/2022,Florida,Tampa,2022-01
+B-25398,9215,767,13,Printers,COD,11/1/2021,California,San Francisco,2021-11
+B-25999,7895,1005,1,Chairs,Credit Card,10/28/2023,Ohio,Cincinnati,2023-10
+B-25999,7895,1005,1,Chairs,Credit Card,3/1/2025,California,San Diego,2025-03
+B-25999,2740,558,8,Pens,UPI,10/28/2023,Ohio,Cincinnati,2023-10
+B-25999,2740,558,8,Pens,UPI,3/1/2025,California,San Diego,2025-03
+B-25159,5338,1354,16,Markers,UPI,8/1/2024,Illinois,Peoria,2024-08
+B-25159,5338,1354,16,Markers,UPI,6/7/2023,New York,Buffalo,2023-06
+B-25159,5338,1354,16,Markers,UPI,10/21/2024,Florida,Orlando,2024-10
+B-25159,5338,1354,16,Markers,UPI,1/4/2021,New York,Buffalo,2021-01
+B-25496,3095,941,2,Pens,EMI,4/19/2022,Ohio,Cleveland,2022-04
+B-25496,3095,941,2,Pens,EMI,8/11/2022,Texas,Austin,2022-08
+B-25401,6017,2230,13,Printers,Debit Card,8/4/2023,Illinois,Peoria,2023-08
+B-25707,4904,469,2,Pens,Debit Card,4/25/2020,Texas,Dallas,2020-04
+B-25707,3080,737,6,Binders,UPI,4/25/2020,Texas,Dallas,2020-04
+B-26225,1992,355,2,Phones,COD,12/14/2024,Florida,Tampa,2024-12
+B-25662,5346,1246,17,Sofas,EMI,7/25/2022,Florida,Orlando,2022-07
+B-25662,5346,1246,17,Sofas,EMI,5/7/2022,Florida,Miami,2022-05
+B-26752,8422,893,18,Printers,Debit Card,8/11/2022,California,San Francisco,2022-08
+B-26752,8422,893,18,Printers,Debit Card,8/12/2022,Ohio,Columbus,2022-08
+B-26752,6105,1447,8,Bookcases,Credit Card,8/11/2022,California,San Francisco,2022-08
+B-26752,6105,1447,8,Bookcases,Credit Card,8/12/2022,Ohio,Columbus,2022-08
+B-25640,670,85,9,Pens,EMI,8/21/2023,Texas,Houston,2023-08
+B-25030,4057,1012,6,Laptops,Credit Card,9/12/2022,California,San Diego,2022-09
+B-25504,8178,2462,10,Pens,UPI,8/20/2023,California,Los Angeles,2023-08
+B-26912,8752,1686,9,Tables,Debit Card,12/27/2020,Ohio,Cincinnati,2020-12
+B-26912,8752,1686,9,Tables,Debit Card,9/4/2023,Illinois,Peoria,2023-09
+B-26912,8752,1686,9,Tables,Debit Card,1/8/2022,Illinois,Chicago,2022-01
+B-25193,8974,4441,16,Printers,EMI,6/5/2023,New York,New York City,2023-06
+B-25106,9090,3098,16,Phones,Credit Card,4/1/2021,Texas,Dallas,2021-04
+B-25106,9090,3098,16,Phones,Credit Card,5/28/2024,Illinois,Springfield,2024-05
+B-25106,851,356,11,Electronic Games,Credit Card,4/1/2021,Texas,Dallas,2021-04
+B-25106,851,356,11,Electronic Games,Credit Card,5/28/2024,Illinois,Springfield,2024-05
+B-26835,5427,728,3,Phones,UPI,3/9/2023,Florida,Miami,2023-03
+B-25836,2695,914,15,Bookcases,Debit Card,7/28/2022,Illinois,Peoria,2022-07
+B-25836,2695,914,15,Bookcases,Debit Card,6/17/2021,California,Los Angeles,2021-06
+B-26661,2386,999,3,Pens,COD,2/13/2024,Florida,Miami,2024-02
+B-26317,2284,149,20,Pens,Debit Card,8/6/2021,New York,Rochester,2021-08
+B-26839,6034,608,8,Phones,EMI,5/1/2022,Texas,Houston,2022-05
+B-26839,8956,3359,13,Bookcases,Credit Card,5/1/2022,Texas,Houston,2022-05
+B-25735,7122,1982,7,Markers,EMI,3/11/2024,Illinois,Peoria,2024-03
+B-25387,9775,4507,5,Markers,UPI,7/6/2020,Ohio,Cincinnati,2020-07
+B-25192,3309,177,13,Bookcases,EMI,12/17/2020,Ohio,Cleveland,2020-12
+B-26844,4163,897,14,Electronic Games,COD,8/30/2022,Illinois,Springfield,2022-08
+B-26844,4163,897,14,Electronic Games,COD,2/27/2025,Ohio,Cleveland,2025-02
+B-26844,4163,897,14,Electronic Games,COD,6/5/2021,Florida,Orlando,2021-06
+B-25236,5518,867,7,Sofas,UPI,12/22/2022,Texas,Houston,2022-12
+B-25940,7566,606,6,Phones,Debit Card,1/25/2025,Ohio,Columbus,2025-01
+B-25940,7566,606,6,Phones,Debit Card,2/14/2025,California,San Diego,2025-02
+B-26765,762,92,11,Printers,COD,1/6/2023,Illinois,Springfield,2023-01
+B-26817,3316,126,6,Laptops,COD,10/11/2020,Ohio,Cincinnati,2020-10
+B-26522,5994,2826,9,Bookcases,EMI,5/24/2023,California,San Francisco,2023-05
+B-26522,5994,2826,9,Bookcases,EMI,3/12/2024,California,Los Angeles,2024-03
+B-26522,5994,2826,9,Bookcases,EMI,3/17/2024,New York,New York City,2024-03
+B-25681,3854,245,19,Laptops,COD,5/17/2022,Ohio,Columbus,2022-05
+B-25382,7019,2677,15,Markers,UPI,12/21/2020,Florida,Miami,2020-12
+B-25944,5954,2640,14,Laptops,Credit Card,8/24/2021,New York,New York City,2021-08
+B-25944,5954,2640,14,Laptops,Credit Card,10/22/2022,Texas,Dallas,2022-10
+B-26980,9752,3618,5,Bookcases,Debit Card,2/21/2024,New York,Rochester,2024-02
+B-26980,9752,3618,5,Bookcases,Debit Card,10/31/2022,Illinois,Peoria,2022-10
+B-25780,5335,322,15,Electronic Games,COD,5/15/2022,New York,New York City,2022-05
+B-25964,1454,80,20,Electronic Games,Credit Card,7/22/2022,New York,Rochester,2022-07
+B-26767,6724,1539,19,Bookcases,COD,12/13/2021,California,San Francisco,2021-12
+B-26767,6724,1539,19,Bookcases,COD,6/3/2021,Texas,Dallas,2021-06
+B-25501,9874,3895,4,Binders,EMI,2/24/2025,Ohio,Cleveland,2025-02
+B-26029,4918,1485,7,Phones,UPI,2/2/2023,Florida,Tampa,2023-02
+B-25292,3189,1180,19,Paper,Credit Card,12/31/2021,New York,New York City,2021-12
+B-25873,2684,713,2,Electronic Games,UPI,6/15/2024,New York,New York City,2024-06
+B-25873,2684,713,2,Electronic Games,UPI,6/5/2022,New York,Buffalo,2022-06
+B-25873,2684,713,2,Electronic Games,UPI,5/11/2020,Texas,Dallas,2020-05
+B-25444,7626,229,5,Pens,EMI,2/11/2024,Illinois,Springfield,2024-02
+B-25444,7626,229,5,Pens,EMI,11/25/2020,Ohio,Columbus,2020-11
+B-26796,6669,3063,19,Printers,UPI,8/12/2023,Ohio,Cincinnati,2023-08
+B-25537,6123,1686,3,Markers,Credit Card,5/6/2022,Ohio,Cincinnati,2022-05
+B-26083,3265,1390,16,Paper,Credit Card,1/17/2024,California,Los Angeles,2024-01
+B-25298,8104,1039,6,Markers,COD,11/24/2021,Florida,Orlando,2021-11
+B-25298,8104,1039,6,Markers,COD,10/6/2021,Florida,Miami,2021-10
+B-25298,8104,1039,6,Markers,COD,1/27/2025,California,San Francisco,2025-01
+B-26734,847,355,17,Tables,COD,5/23/2022,New York,Buffalo,2022-05
+B-26734,847,355,17,Tables,COD,11/28/2023,Texas,Austin,2023-11
+B-26734,847,355,17,Tables,COD,1/18/2023,California,San Francisco,2023-01
+B-25483,3129,55,9,Bookcases,Debit Card,9/6/2021,Illinois,Peoria,2021-09
+B-25483,7821,3821,13,Laptops,EMI,9/6/2021,Illinois,Peoria,2021-09
+B-26041,9498,256,12,Phones,COD,2/22/2021,Illinois,Peoria,2021-02
+B-26041,9498,256,12,Phones,COD,10/6/2021,New York,New York City,2021-10
+B-26750,5461,1214,7,Sofas,Credit Card,6/7/2020,New York,Rochester,2020-06
+B-26138,3084,611,19,Bookcases,UPI,5/21/2024,Texas,Dallas,2024-05
+B-26929,6087,3043,1,Sofas,COD,8/5/2020,New York,Buffalo,2020-08
+B-25359,611,300,3,Bookcases,Credit Card,10/15/2020,Illinois,Peoria,2020-10
+B-25738,9909,2999,18,Markers,COD,5/15/2021,Ohio,Cleveland,2021-05
+B-25738,9909,2999,18,Markers,COD,1/13/2022,Texas,Austin,2022-01
+B-25931,6485,3178,18,Sofas,UPI,7/18/2023,Ohio,Columbus,2023-07
+B-25706,7259,1969,10,Laptops,Credit Card,12/8/2022,Illinois,Springfield,2022-12
+B-25352,3333,700,18,Printers,COD,4/17/2023,Florida,Miami,2023-04
+B-26909,7786,1202,4,Sofas,EMI,6/23/2020,Illinois,Peoria,2020-06
+B-26296,7644,2428,6,Phones,Debit Card,1/20/2022,Illinois,Springfield,2022-01
+B-26112,1476,247,5,Bookcases,COD,11/18/2023,California,Los Angeles,2023-11
+B-26112,1476,247,5,Bookcases,COD,1/19/2022,California,San Diego,2022-01
+B-26790,3445,1405,16,Sofas,EMI,9/21/2020,California,San Francisco,2020-09
+B-26790,9837,384,1,Laptops,UPI,9/21/2020,California,San Francisco,2020-09
+B-25986,1314,457,8,Sofas,EMI,6/11/2021,California,San Diego,2021-06
+B-25630,5951,936,6,Laptops,Debit Card,8/7/2024,Texas,Dallas,2024-08
+B-25630,5951,936,6,Laptops,Debit Card,7/26/2022,Ohio,Columbus,2022-07
+B-26872,992,177,6,Phones,UPI,1/13/2024,California,Los Angeles,2024-01
+B-26872,4699,625,18,Markers,EMI,1/13/2024,California,Los Angeles,2024-01
+B-25870,5557,2114,17,Laptops,EMI,5/28/2021,Ohio,Cleveland,2021-05
+B-25991,3436,933,3,Electronic Games,Credit Card,6/13/2021,Texas,Dallas,2021-06
+B-25198,9840,3870,11,Printers,Debit Card,4/25/2023,Texas,Austin,2023-04
+B-25189,7620,125,4,Paper,EMI,7/5/2021,California,San Francisco,2021-07
+B-25189,7620,125,4,Paper,EMI,10/12/2024,California,San Francisco,2024-10
+B-26563,4314,1591,5,Tables,Debit Card,10/4/2021,New York,Buffalo,2021-10
+B-25548,8851,999,12,Laptops,UPI,2/7/2024,Ohio,Cincinnati,2024-02
+B-25965,544,272,2,Laptops,Debit Card,3/5/2021,Texas,Houston,2021-03
+B-25965,544,272,2,Laptops,Debit Card,6/25/2023,New York,Buffalo,2023-06
+B-26545,537,142,20,Markers,EMI,8/2/2021,Illinois,Peoria,2021-08
+B-26603,5944,2661,7,Laptops,EMI,3/17/2022,Texas,Austin,2022-03
+B-26393,2258,135,18,Printers,Credit Card,2/7/2024,Florida,Miami,2024-02
+B-26393,2258,135,18,Printers,Credit Card,8/19/2022,California,San Diego,2022-08
+B-26628,9609,4339,3,Sofas,Debit Card,9/19/2024,Texas,Houston,2024-09
+B-26628,9609,4339,3,Sofas,Debit Card,4/5/2020,Ohio,Cincinnati,2020-04
+B-25945,9952,3301,15,Electronic Games,Debit Card,3/10/2023,Texas,Dallas,2023-03
+B-26565,9873,4585,7,Paper,Credit Card,8/10/2020,Ohio,Columbus,2020-08
+B-25684,3560,1335,15,Electronic Games,COD,4/29/2020,New York,New York City,2020-04
+B-25684,3560,1335,15,Electronic Games,COD,3/16/2023,Illinois,Springfield,2023-03
+B-26612,6528,76,9,Phones,Debit Card,5/4/2020,New York,Buffalo,2020-05
+B-26612,8930,3374,12,Sofas,Debit Card,5/4/2020,New York,Buffalo,2020-05
+B-25839,4521,1778,9,Paper,Debit Card,10/15/2024,Florida,Tampa,2024-10
+B-25898,7091,2317,10,Sofas,Credit Card,6/9/2022,California,San Diego,2022-06
+B-26120,2101,287,8,Pens,COD,7/4/2020,Ohio,Cleveland,2020-07
+B-26120,2101,287,8,Pens,COD,4/9/2023,Illinois,Chicago,2023-04
+B-26426,8644,1968,9,Paper,Debit Card,11/24/2023,Illinois,Chicago,2023-11
+B-26309,6672,3319,4,Tables,UPI,11/29/2023,Texas,Dallas,2023-11
+B-26309,6672,3319,4,Tables,UPI,5/20/2024,California,San Diego,2024-05
+B-26789,4699,103,12,Binders,UPI,5/21/2024,Ohio,Cincinnati,2024-05
+B-26420,4897,1001,14,Sofas,Debit Card,12/7/2021,Texas,Houston,2021-12
+B-26420,4897,1001,14,Sofas,Debit Card,1/6/2025,Ohio,Cincinnati,2025-01
+B-26257,5460,2088,14,Tables,Debit Card,7/13/2022,New York,Buffalo,2022-07
+B-26257,5460,2088,14,Tables,Debit Card,4/19/2020,Ohio,Cincinnati,2020-04
+B-25603,9272,1771,19,Markers,UPI,11/14/2024,Illinois,Springfield,2024-11
+B-25603,9272,1771,19,Markers,UPI,4/18/2020,Texas,Dallas,2020-04
+B-25010,7870,1057,15,Pens,Credit Card,10/18/2023,Texas,Houston,2023-10
+B-25010,7870,1057,15,Pens,Credit Card,3/21/2021,Ohio,Cleveland,2021-03
+B-25889,7992,893,12,Laptops,Credit Card,9/13/2024,Ohio,Cleveland,2024-09
+B-25889,7992,893,12,Laptops,Credit Card,5/4/2023,New York,New York City,2023-05
+B-25889,7992,893,12,Laptops,Credit Card,5/31/2023,Illinois,Chicago,2023-05
+B-26675,6499,2189,18,Electronic Games,EMI,6/15/2024,New York,New York City,2024-06
+B-26675,6499,2189,18,Electronic Games,EMI,4/3/2021,Florida,Orlando,2021-04
+B-26168,8848,2090,9,Pens,Debit Card,1/14/2025,California,San Diego,2025-01
+B-25436,8044,3634,3,Markers,COD,12/24/2020,Florida,Orlando,2020-12
+B-25436,8044,3634,3,Markers,COD,10/7/2022,California,San Diego,2022-10
+B-25794,7417,1334,16,Bookcases,COD,10/5/2021,Florida,Tampa,2021-10
+B-26495,3451,658,3,Markers,UPI,12/28/2024,Illinois,Chicago,2024-12
+B-25815,8531,2555,4,Laptops,EMI,5/14/2022,Texas,Austin,2022-05
+B-25022,6646,848,15,Sofas,Debit Card,8/19/2023,New York,New York City,2023-08
+B-25022,6646,848,15,Sofas,Debit Card,7/14/2023,New York,Buffalo,2023-07
+B-26928,2553,907,6,Laptops,Credit Card,6/22/2023,Texas,Dallas,2023-06
+B-25905,8490,3485,3,Phones,Credit Card,3/21/2023,New York,New York City,2023-03
+B-26739,2689,1330,3,Tables,UPI,12/13/2020,California,Los Angeles,2020-12
+B-26739,2689,1330,3,Tables,UPI,5/29/2024,Florida,Miami,2024-05
+B-25697,815,54,14,Tables,Debit Card,5/25/2021,California,San Francisco,2021-05
+B-25234,5024,379,2,Paper,UPI,4/2/2024,Texas,Dallas,2024-04
+B-25234,5024,379,2,Paper,UPI,12/3/2022,Illinois,Peoria,2022-12
+B-25665,8962,2444,18,Electronic Games,Debit Card,7/12/2021,Ohio,Cleveland,2021-07
+B-25665,8962,2444,18,Electronic Games,Debit Card,3/22/2020,Illinois,Peoria,2020-03
+B-25028,1961,59,12,Binders,UPI,8/9/2020,Florida,Orlando,2020-08
+B-26659,526,83,4,Sofas,Credit Card,2/18/2022,Illinois,Chicago,2022-02
+B-25966,6093,3042,9,Bookcases,Debit Card,6/14/2021,California,San Francisco,2021-06
+B-25966,6093,3042,9,Bookcases,Debit Card,3/1/2021,California,San Diego,2021-03
+B-25350,7699,246,5,Electronic Games,Debit Card,9/23/2023,Texas,Austin,2023-09
+B-26370,8825,3594,15,Tables,Debit Card,7/31/2024,New York,New York City,2024-07
+B-26298,2082,642,8,Phones,EMI,6/2/2020,New York,Rochester,2020-06
+B-26298,2082,642,8,Phones,EMI,12/15/2022,Texas,Austin,2022-12
+B-26298,2082,642,8,Phones,EMI,8/7/2020,New York,Buffalo,2020-08
+B-25068,914,163,13,Markers,UPI,10/26/2024,Illinois,Chicago,2024-10
