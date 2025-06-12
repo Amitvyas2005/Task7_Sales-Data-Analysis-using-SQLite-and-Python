@@ -19,7 +19,9 @@ This Python script (Task7_SQLiteDatabase_using_Python.py) connects to an SQLite 
 
 - `Task7_SQLiteDatabase_using_Python.ipynb` - Main script for querying and analyzing the sales database.
 - `Created_SQLiteDatabase_using_Python.ipynb`  - Assumed SQLite database file with a table named `sales`.
+- `sales.db`-created by using jupyter notebook
 - `Visualizations.pdf` - All visuals generated using quries.
+- `Original_Sales_Dataset.csv`
 
 ---
 
